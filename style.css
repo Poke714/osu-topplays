@@ -23,6 +23,20 @@ a {
 p {
     text-align: center;
     font-weight: bold;
+    user-select: none;
+}
+
+p a {
+    cursor: pointer;
+    transition: color 0.1s;
+}
+    
+p a.asc, p a.desc {
+    color: #d13e96;
+}
+
+p a:hover {
+    color: #F573AD;
 }
 
 header span:nth-child(2) {
