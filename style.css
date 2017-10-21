@@ -8,9 +8,8 @@ body {
 }
 
 header {
-    font-family: "Lato";
     background-color: #333;
-    color: #f573ad;
+    color: #F573AD;
     font-size: 48px;
     padding: 0.08em 0.2em 0.2em 0.2em;
 }
