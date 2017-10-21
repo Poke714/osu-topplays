@@ -1,0 +1,50 @@
+body {
+    margin: 0 auto;
+    background-color: #454545;
+    font-family: Lato;
+    color: #FFF;
+    font-size: 100%;
+    overflow-x: hidden;
+}
+
+header {
+    font-family: "Lato";
+    background-color: #333;
+    color: #f573ad;
+    font-size: 48px;
+    padding: 0.08em 0.2em 0.2em 0.2em;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header span:nth-child(2) {
+    font-size: 24px;
+    float: right;
+}
+
+#plays {
+    padding: 1em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+table td {
+    padding: 0.6em;
+}
+
+table {
+    counter-reset: rowNumber;
+}
+
+/*table tr:not(:first-child) {*/
+table tr {
+    counter-increment: rowNumber;
+}
+
+table tr td:first-child::before {
+    content: "#" counter(rowNumber);
+    margin-right: 0.5em;
+}

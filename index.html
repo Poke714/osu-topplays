@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Server</title>        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8"> 
+        <!--<meta name="description" content="Der Server!">-->
+        
+        
+        <link href="https://fonts.googleapis.com/css?family=Exo+2|Lato|Roboto|Raleway" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+        rel="stylesheet">
+        <link rel="stylesheet" href="colors.css">
+        <link rel="stylesheet" href="style.css">
+        
+        <script type="text/javascript" src="plays.json"></script>
+        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+        <script type="text/javascript" src="script.js"></script>
+    </head>
+    <body onload="refresh();">
+        <header>
+            <span>osu!top-plays</span>
+            <span>by <a href="http://osu.ppy.sh/u/Poke714">Poke714</a></span>
+        </header>
+        
+        <table id="plays">
+            <tbody class="list" id="tbody">
+                <!--<tr id="header">
+                    <th>#</th>
+                    <th class="sort" data-sort="pp">pp</th>
+                    <th class="sort" data-sort="player">Player</th>
+                    <th class="sort" data-sort="map">Map</th>
+                    <th class="sort" data-sort="mods">Mods</th>
+                    <th class="sort" data-sort="status">Status</th>
+                </tr>-->
+            </tbody>
+        </table>
+    </body>
+</html>
