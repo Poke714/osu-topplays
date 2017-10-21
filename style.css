@@ -12,6 +12,7 @@ header {
     color: #F573AD;
     font-size: 48px;
     padding: 0.08em 0.2em 0.2em 0.2em;
+    border-bottom: 1px solid #2A2A2A;
 }
 
 a {
@@ -19,18 +20,23 @@ a {
     color: inherit;
 }
 
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
 header span:nth-child(2) {
     font-size: 24px;
     float: right;
 }
 
-#plays {
+table {
     padding: 1em;
     margin: 0 auto;
     text-align: center;
 }
 
-table td {
+table td, table th, p a {
     padding: 0.6em;
 }
 
@@ -38,12 +44,11 @@ table {
     counter-reset: rowNumber;
 }
 
-/*table tr:not(:first-child) {*/
 table tr {
     counter-increment: rowNumber;
 }
 
 table tr td:first-child::before {
     content: "#" counter(rowNumber);
-    margin-right: 0.5em;
+    padding-right: 0.6em;
 }
