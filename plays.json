@@ -33,7 +33,7 @@ var values = [
     {"pp": "712pp", "player": "Angelsim", "map": "ClariS - Hitorigoto -TV MIX- [Soliloquy] ", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "99.22%"},
     {"pp": "730pp", "player": "Angelsim", "map": "Chino(CV.Minase Inori) - Shinsaku no Shiawase wa Kochira![Happy~!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.50%"},
     {"pp": "734pp", "player": "Angelsim", "map": "RADWIMPS - Yume Tourou [Extra: Taki] ", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.25%"},
-    {"pp": "705pp", "player": "itsamemarioo", "map": "Drop - Granat [Expert]", "mods": "HD DT HR FL", "status": "Ranked", "rank": "A", "acc": "75.87%"},
+    {"pp": "705pp", "player": "itsamemarioo", "map": "Drop - Granat [Expert]", "mods": "HD DT HR FL", "status": "Ranked", "rank": "C", "acc": "75.87%"},
     {"pp": "1065pp", "player": "ExGon", "map": "Nico Nico Douga - U.N. Owen wa Kanojo nanoka? (Nico Mega Mix) [TAG4]", "mods": "EZ", "status": "Loved", "rank": "S", "acc": "99.05%"},
     {"pp": "1046pp", "player": "Mafham", "map": "Nico Nico Douga - U.N. Owen wa Kanojo nanoka? (Nico Mega Mix) [TAG4]", "mods": "EZ", "status": "Loved", "rank": "S", "acc": "96.27%"},
     {"pp": "720pp", "player": "filsdelama ", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "99.06%"},
@@ -57,5 +57,6 @@ var values = [
     {"pp": "746pp", "player": "Azerite", "map": "TrySail - High Free Spirits -TV.Ver- [Skystar's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.82%"},
     {"pp": "730pp", "player": "Azerite", "map": "Chino - Shinsaku no Shiawase wa Kochira! [Happy~!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.50%"},
     {"pp": "726pp", "player": "Cookiezi", "map": "Linkin Park - Guilty All The Same[Shame]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.25%"},
-    {"pp": "733pp", "player": "Aireu", "map": "9mm Parabellum Bullet - Inferno [The Eclipse]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.50"}
+    {"pp": "733pp", "player": "Aireu", "map": "9mm Parabellum Bullet - Inferno [The Eclipse]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.50"},
+    {"pp": "744pp", "player": "EbonSol", "map": "Drop - Granat [Kyshiro's Extra]", "mods": "HD DT FL", "status": "Ranked", "rank": "C", "acc": "78.63"}
 ];
