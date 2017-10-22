@@ -7,4 +7,7 @@ function refresh() {
     var list = new List("plays", options, values);
     
     list.sort("pp", { order: "desc" });
+    
+    // TODO rank alphabet = "SABCD"
+    // TODO button to filter touchscreen plays (http://listjs.com/api/#filter)
 }

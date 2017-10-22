@@ -34,27 +34,20 @@ a {
     color: inherit;
 }
 
-p {
-    text-align: center;
-    font-weight: bold;
+table th {
     user-select: none;
-    margin-top: 0;
-    margin-bottom: 0;
-    padding: 1em;
 }
 
-p a {
+table th.sort {
     cursor: pointer;
     transition: color 0.1s;
-    padding: 0px;
-    display: inline-block;
 }
     
-p a.asc, p a.desc {
+table th.asc, table th.desc {
     color: #d13e96;
 }
 
-p a:hover {
+table th.sort:hover {
     color: #F573AD;
 }
 
@@ -64,9 +57,10 @@ table {
     display: block;
     overflow: auto;
     white-space: nowrap;
+    border-collapse: collapse; 
 }
 
-table td, table th, p a {
+table td, table th {
     padding: 0.6em;
 }
 
@@ -74,11 +68,15 @@ table {
     counter-reset: rowNumber;
 }
 
-table tr {
+table tr, table thead th {
+    border: 1px solid #3D3D3D;
+}
+
+table tbody tr {
     counter-increment: rowNumber;
 }
 
-table tr td:first-child::before {
+table tbody tr td:first-child::before {
     content: "#" counter(rowNumber);
     padding-right: 0.6em;
 }
