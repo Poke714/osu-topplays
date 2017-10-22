@@ -4,15 +4,29 @@ body {
     font-family: Lato;
     color: #FFF;
     font-size: 100%;
-    overflow-x: hidden;
 }
 
 header {
     background-color: #333;
     color: #F573AD;
-    font-size: 48px;
+    font-size: 10.6vw;
     padding: 0.08em 0.2em 0.2em 0.2em;
     border-bottom: 1px solid #2A2A2A;
+}
+
+header span:nth-child(2) {
+    float: right;
+    font-size: 5.3vw;
+}
+
+@media(min-width: 450px) {
+    header {
+        font-size: 48px;
+    }
+    
+    header span:nth-child(2) {
+        font-size: 24px;
+    }
 }
 
 a {
@@ -24,11 +38,16 @@ p {
     text-align: center;
     font-weight: bold;
     user-select: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 1em;
 }
 
 p a {
     cursor: pointer;
     transition: color 0.1s;
+    padding: 0px;
+    display: inline-block;
 }
     
 p a.asc, p a.desc {
@@ -39,15 +58,13 @@ p a:hover {
     color: #F573AD;
 }
 
-header span:nth-child(2) {
-    font-size: 24px;
-    float: right;
-}
-
 table {
     padding: 1em;
     margin: 0 auto;
     text-align: center;
+    display: block;
+    overflow: auto;
+    white-space: nowrap;
 }
 
 table td, table th, p a {
