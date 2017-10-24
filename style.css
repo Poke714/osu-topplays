@@ -34,6 +34,27 @@ a {
     color: inherit;
 }
 
+#plays {
+    padding: 1em;
+}
+
+#touchscreen {
+    margin-bottom: 1em;
+    padding: 0.6em;
+    color: white;
+    background-color: #454545;
+    border: 1px solid #3D3D3D;
+    display: inline-block;
+}
+
+table {
+    text-align: center;
+    display: block;
+    overflow: auto;
+    white-space: nowrap;
+    border-collapse: collapse; 
+}
+
 table th {
     user-select: none;
 }
@@ -49,15 +70,6 @@ table th.asc, table th.desc {
 
 table th.sort:hover {
     color: #F573AD;
-}
-
-table {
-    padding: 1em;
-    text-align: center;
-    display: block;
-    overflow: auto;
-    white-space: nowrap;
-    border-collapse: collapse; 
 }
 
 table td, table th {
