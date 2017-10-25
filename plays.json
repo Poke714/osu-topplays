@@ -2,7 +2,7 @@ var values = [
     {"pp": "817pp", "player": "Cookiezi", "map": "kradness & Reol - Remote Control [Max Control]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.54%", "date": "2017/03/30", "touchscreen": ""},
     {"pp": "813pp", "player": "Vaxei", "map": "kradness & Reol - Remote Control [Max Control]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.49%", "date": "2017/03/30", "touchscreen": ""},
     {"pp": "808pp", "player": "Cookiezi", "map": "Araki - Snow Drive [Lemur]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "99.94%", "date": "2017/04/06", "touchscreen": ""},
-    {"pp": "800pp", "player": "Cookiezi", "map": "xi - Freedom Dive [FOUR DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.83%", "date": "2016/09/20", "touchscreen": ""},
+    {"pp": "800pp", "player": "Cookiezi", "map": "xi - FREEDOM DiVE [FOUR DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.83%", "date": "2016/09/20", "touchscreen": ""},
     {"pp": "767pp", "player": "Cookiezi", "map": "TrySail - High Free Spirits [Fleet]", "mods": "HD", "status": "Unranked", "rank": "SS", "acc": "100.00%", "date": "2017/04/08", "touchscreen": ""},
     {"pp": "727pp", "player": "Cookiezi", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.09%", "date": "2017/04/13", "touchscreen": ""},
     {"pp": "727pp", "player": "Cookiezi", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.71%", "date": "2016/01/02", "touchscreen": ""},
