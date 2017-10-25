@@ -47,6 +47,8 @@ a {
     border: 1px solid #3D3D3D;
     display: inline-block;
     transition: color 0.1s;
+    cursor: pointer;
+    user-select: none;
 }
 
 table {
