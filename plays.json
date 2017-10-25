@@ -6,6 +6,7 @@ var values = [
     {"pp": "767pp", "player": "Cookiezi", "map": "TrySail - High Free Spirits [Fleet]", "mods": "HD", "status": "Unranked", "rank": "SS", "acc": "100.00%", "date": "2017/04/08", "touchscreen": ""},
     {"pp": "727pp", "player": "Cookiezi", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.09%", "date": "2017/04/13", "touchscreen": ""},
     {"pp": "727pp", "player": "Cookiezi", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.71%", "date": "2016/01/02", "touchscreen": ""},
+    {"pp": "713pp", "player": "Cookiezi", "map": "xi - FREEDOM DiVE [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.13", "date": "2017/01/18", "touchscreen": ""},
     {"pp": "734pp", "player": "Cookiezi", "map": "Aitsuki Nakuru - INFINITE DAYS (Speed Up Ver.) [Eternally]", "mods": "HD HR", "status": "Unranked", "rank": "S", "acc": "99.08%", "date": "2017/04/25", "touchscreen": ""},
     {"pp": "717pp", "player": "Cookiezi", "map": "Kanae Asaba - Endless Starlight ~Inochi no Kirameki~ [Challenger]", "mods": "HD DT", "status": "Ranked", "rank": "SS", "acc": "100.00%", "date": "2017/04/22", "touchscreen": ""},
     {"pp": "750pp", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "95.56%", "date": "", "touchscreen": ""},
