@@ -38,13 +38,15 @@ a {
     padding: 1em;
 }
 
-#touchscreen {
+.button {
     margin-bottom: 1em;
+    margin-right: 0.7em;
     padding: 0.6em;
     color: white;
     background-color: #454545;
     border: 1px solid #3D3D3D;
     display: inline-block;
+    transition: color 0.1s;
 }
 
 table {
@@ -68,7 +70,7 @@ table th.asc, table th.desc {
     color: #d13e96;
 }
 
-table th.sort:hover {
+table th.sort:hover, .button:hover {
     color: #F573AD;
 }
 
