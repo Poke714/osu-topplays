@@ -61,5 +61,6 @@ var values = [
     {"pp": "733pp", "player": "Aireu", "map": "9mm Parabellum Bullet - Inferno [The Eclipse]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.50", "date": "", "touchscreen": ""},
     {"pp": "744pp", "player": "EbonSol", "map": "Drop - Granat [Kyshiro's Extra]", "mods": "HD DT FL", "status": "Ranked", "rank": "C", "acc": "78.63", "date": "2017/10/22", "touchscreen": "true"},
     {"pp": "720pp", "player": "Vaxei", "map": "Saiya - Remote control [Take Control!]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.28", "date": "2017/09/10", "touchscreen": ""},
-    {"pp": "727pp", "player": "Cookiezi", "map": "GET IN THE RING - Moonscraper [Collab with Yusomi]", "mods": "HD HR", "status": "Unranked", "rank": "A", "acc": "99.21", "date": "2017/23/10", "touchscreen": ""}
+    {"pp": "727pp", "player": "Cookiezi", "map": "GET IN THE RING - Moonscraper [Collab with Yusomi]", "mods": "HD HR", "status": "Unranked", "rank": "A", "acc": "99.21", "date": "2017/23/10", "touchscreen": ""},
+    {"pp": "714pp", "player": "Rafis", "map": "ayase rie - yuima-ru*world [Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.40", "date": "2017/28/10", "touchscreen": ""}
 ];
