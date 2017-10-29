@@ -16,12 +16,23 @@ function refresh() {
 
 
 function filterTouchscreen() {
+    var o;
+    var ls;
+    if(document.getElementsByClassName("desc").length == 0) {
+        ls = document.getElementsByClassName("asc")[0].getAttribute("data-sort");
+        o = "asc";
+    } else {
+        ls = document.getElementsByClassName("desc")[0].getAttribute("data-sort");
+        o = "desc";
+    }
+    
     touchscreen = !touchscreen;
     list.filter(function(item) {
         if(!touchscreen)
             return item.values().touchscreen != "true";
         else return true;
     });
-    console.log(touchscreen)
-    document.getElementById("touchscreen").innerHTML = touchscreen ? "Hide touchscreen plays" : "Show touchscreen plays"
+    document.getElementById("touchscreen").innerHTML = touchscreen ? "Hide touchscreen plays" : "Show touchscreen plays";
+
+    list.sort(ls, { order: o });
 }
