@@ -63,7 +63,8 @@ var values = [
     {"pp": "720pp", "player": "Vaxei", "map": "Saiya - Remote control [Take Control!]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.28", "date": "2017/09/10", "touchscreen": ""},
     {"pp": "727pp", "player": "Cookiezi", "map": "GET IN THE RING - Moonscraper [Collab with Yusomi]", "mods": "HD HR", "status": "Unranked", "rank": "A", "acc": "99.21", "date": "2017/10/23", "touchscreen": ""},
     {"pp": "714pp", "player": "Rafis", "map": "ayase rie - yuima-ru*world [Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.40", "date": "2017/10/28", "touchscreen": ""},
-    {"pp": "707pp", "player": "Yaong", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.82", "date": "2017/06/29", "touchscreen": ""}
+    {"pp": "707pp", "player": "Yaong", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.82", "date": "2017/06/29", "touchscreen": ""},
+    {"pp": "820pp", "player": "Cookiezi", "map": "nao - Toaru Shoukoku no Ohimesama [Beyond the Princess]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "98.97", "date": "2017/10/30", "touchscreen": ""}
 ];
 
 /* 700pp plays with same player, map and mods:
