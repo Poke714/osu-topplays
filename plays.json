@@ -65,7 +65,8 @@ var values = [
     {"pp": "714pp", "player": "Rafis", "map": "ayase rie - yuima-ru*world [Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.40", "date": "2017/10/28", "touchscreen": ""},
     {"pp": "707pp", "player": "Yaong", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.82", "date": "2017/06/29", "touchscreen": ""},
     {"pp": "820pp", "player": "Cookiezi", "map": "nao - Toaru Shoukoku no Ohimesama [Beyond the Princess]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "98.97", "date": "2017/10/30", "touchscreen": ""},
-    {"pp": "734pp", "player": "Azerite", "map": "TrySail - High Free Spirits -TV.Ver- [StarR's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.01", "date": "2017/03/11", "touchscreen": ""}
+    {"pp": "734pp", "player": "Azerite", "map": "TrySail - High Free Spirits -TV.Ver- [StarR's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.01", "date": "2017/03/11", "touchscreen": ""},
+    {"pp": "718pp", "player": "Cookiezi", "map": "DragonForce - Defenders [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "98.64", "date": "2017/02/08", "touchscreen": ""}
 ];
 
 /* 700pp plays with same player, map and mods:
