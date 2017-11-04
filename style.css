@@ -12,6 +12,7 @@ header {
     font-size: 10.6vw;
     padding: 0.08em 0.2em 0.2em 0.2em;
     border-bottom: 1px solid #2A2A2A;
+    text-shadow: 1px 1px 1px #000;
 }
 
 header span:nth-child(2) {
