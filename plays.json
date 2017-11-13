@@ -19,7 +19,7 @@ var values = [
     {"pp": "730pp", "player": "Rafis", "map": "Chino - Shinsaku no Shiawase wa Kochira! [Happy~!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.50%", "date": "2017/06/26", "touchscreen": ""},
     {"pp": "707pp", "player": "Emilia", "map": "Ni-Sokkususu - Blade Dance [Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "94.47%", "date": "2017/06/29", "touchscreen": ""},
     {"pp": "744pp", "player": "Emilia", "map": "HO-KAGO TEA TIME - Kira Kira Days [Shiawase!!]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.10%", "date": "2017/06/29", "touchscreen": ""},
-    {"pp": "771pp", "player": "Emilia", "map": "MrSpazzaneve17 - The Sounds of rrtyui [Gangsta Reloaded]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "99.82%", "date": "2017/06/28", "touchscreen": ""},
+    {"pp": "771pp", "player": "Emilia", "map": "MrSpazzaneve17 - The Sounds of rrtyui [Gangsta Reloaded]", "mods": "HD NF", "status": "Unranked", "rank": "S", "acc": "99.82%", "date": "2017/06/28", "touchscreen": ""},
     {"pp": "734pp", "player": "Rafis", "map": "RADWIMPS - Yume Tourou [Extra: Taki] ", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.43%", "date": "2017/06/25", "touchscreen": ""},
     {"pp": "720pp", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "99.06%", "date": "2016/11/05", "touchscreen": ""},
     {"pp": "713pp", "player": "Rafis", "map": "Ayase Rie - Yuima-ru*World TVver. [Extra]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "99.25%", "date": "2016/10/30", "touchscreen": ""},
