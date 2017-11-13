@@ -1,5 +1,6 @@
 var list;
 var touchscreen = true;
+var hideUnranked = false;
 
 function refresh() {
     var options = {
@@ -33,6 +34,28 @@ function filterTouchscreen() {
         else return true;
     });
     document.getElementById("touchscreen").innerHTML = touchscreen ? "Hide touchscreen plays" : "Show touchscreen plays";
+
+    list.sort(ls, { order: o });
+}
+
+function filterRanked() {
+    var o;
+    var ls;
+    if(document.getElementsByClassName("desc").length == 0) {
+        ls = document.getElementsByClassName("asc")[0].getAttribute("data-sort");
+        o = "asc";
+    } else {
+        ls = document.getElementsByClassName("desc")[0].getAttribute("data-sort");
+        o = "desc";
+    }
+    
+    hideUnranked = !hideUnranked;
+    list.filter(function(item) {
+        if(hideUnranked)
+            return item.values().status == "Ranked";
+        else return true;
+    });
+    document.getElementById("hideUnranked").innerHTML = hideUnranked ? "Show all plays" : "Hide unranked plays";
 
     list.sort(ls, { order: o });
 }
