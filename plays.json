@@ -67,7 +67,8 @@ var values = [
     {"pp": "820pp", "player": "Cookiezi", "map": "nao - Toaru Shoukoku no Ohimesama [Beyond the Princess]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "98.97%", "date": "2017/10/30", "touchscreen": ""},
     {"pp": "734pp", "player": "Azerite", "map": "TrySail - High Free Spirits -TV.Ver- [StarR's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.01%", "date": "2017/03/11", "touchscreen": ""},
     {"pp": "718pp", "player": "Cookiezi", "map": "DragonForce - Defenders [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "98.64%", "date": "2017/02/08", "touchscreen": ""},
-    {"pp": "724pp", "player": "Haenes (Gatari)", "map": "ke-ji feat. Nanahira - Ange du Blanc Pur [ABSOLUTION]", "mods": "HR", "status": "Unofficial", "rank": "S", "acc": "98.78%", "date": "2017/11/06", "touchscreen": ""}
+    {"pp": "724pp", "player": "Haenes (Gatari)", "map": "ke-ji feat. Nanahira - Ange du Blanc Pur [ABSOLUTION]", "mods": "HR", "status": "Unofficial", "rank": "S", "acc": "98.78%", "date": "2017/11/06", "touchscreen": ""},
+    {"pp": "719pp", "player": "Angelsim", "map": "9mm Parabellum Bullet - Inferno [The Eclipse]", "mods": "HR", "status": "Qualified", "rank": "A", "acc": "98.99%", "date": "2016/08/15", "touchscreen": ""}
 ];
 
 /* 700pp plays with same player, map and mods:
