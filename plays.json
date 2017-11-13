@@ -7,11 +7,11 @@ var values = [
     {"pp": "727pp", "player": "Cookiezi", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.09%", "date": "2017/04/13", "touchscreen": ""},
     {"pp": "727pp", "player": "Cookiezi", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.71%", "date": "2016/01/02", "touchscreen": ""},
     {"pp": "713pp", "player": "Cookiezi", "map": "xi - FREEDOM DiVE [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.13%", "date": "2016/01/18", "touchscreen": ""},
-    {"pp": "734pp", "player": "Cookiezi", "map": "Aitsuki Nakuru - INFINITE DAYS (Speed Up Ver.) [Eternally]", "mods": "HD HR", "status": "Unranked", "rank": "S", "acc": "99.08%", "date": "2017/04/25", "touchscreen": ""},
+    {"pp": "735pp", "player": "Cookiezi", "map": "Aitsuki Nakuru - INFINITE DAYS (Speed Up Ver.) [Eternally]", "mods": "HD HR", "status": "Unranked", "rank": "S", "acc": "99.08%", "date": "2017/04/25", "touchscreen": ""},
     {"pp": "717pp", "player": "Cookiezi", "map": "Kanae Asaba - Endless Starlight ~Inochi no Kirameki~ [Challenger]", "mods": "HD DT", "status": "Ranked", "rank": "SS", "acc": "100.00%", "date": "2017/04/22", "touchscreen": ""},
     {"pp": "750pp", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "95.56%", "date": "2017/04/23", "touchscreen": ""},
     {"pp": "776pp", "player": "Cookiezi", "map": "HoneyWorks - Akatsuki Zukuyo [Taeyang's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "95.81%", "date": "2017/04/25", "touchscreen": ""},
-    {"pp": "704pp", "player": "Cookiezi", "map": "ZOGRAPHOS (Yu Asahina+Yamajet) - Verse IV [DoKo]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "99.64%", "date": "2017/04/29", "touchscreen": ""},
+    {"pp": "705pp", "player": "Cookiezi", "map": "ZOGRAPHOS (Yu Asahina+Yamajet) - Verse IV [DoKo]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "99.64%", "date": "2017/04/29", "touchscreen": ""},
     {"pp": "706pp", "player": "Cookiezi", "map": "Chitose Sara - Merry Merry Go Round [Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.22%", "date": "2017/04/29", "touchscreen": ""},
     {"pp": "765pp", "player": "Yaong", "map": "ke-ji feat. Nanahira - Ange du Blanc Pur [ABSOLUTION]", "mods": "HD HR", "status": "Unranked", "rank": "S", "acc": "98.83%", "date": "2017/01/29", "touchscreen": ""},
     {"pp": "700pp", "player": "Cookiezi", "map": "Panda Eyes & Teminite - Highscore [Game Over]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.60%", "date": "2016/01/09", "touchscreen": ""},
@@ -64,16 +64,18 @@ var values = [
     {"pp": "727pp", "player": "Cookiezi", "map": "GET IN THE RING - Moonscraper [Collab with Yusomi]", "mods": "HD HR", "status": "Unranked", "rank": "A", "acc": "99.21%", "date": "2017/10/23", "touchscreen": ""},
     {"pp": "714pp", "player": "Rafis", "map": "ayase rie - yuima-ru*world [Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.40%", "date": "2017/10/28", "touchscreen": ""},
     {"pp": "707pp", "player": "Yaong", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.82%", "date": "2017/06/29", "touchscreen": ""},
-    {"pp": "820pp", "player": "Cookiezi", "map": "nao - Toaru Shoukoku no Ohimesama [Beyond the Princess]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "98.97%", "date": "2017/10/30", "touchscreen": ""},
+    {"pp": "813pp", "player": "Cookiezi", "map": "nao - Toaru Shoukoku no Ohimesama [Beyond the Princess]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "98.97%", "date": "2017/10/30", "touchscreen": ""},
     {"pp": "734pp", "player": "Azerite", "map": "TrySail - High Free Spirits -TV.Ver- [StarR's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.01%", "date": "2017/03/11", "touchscreen": ""},
     {"pp": "718pp", "player": "Cookiezi", "map": "DragonForce - Defenders [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "98.64%", "date": "2017/02/08", "touchscreen": ""},
     {"pp": "724pp", "player": "Haenes (Gatari)", "map": "ke-ji feat. Nanahira - Ange du Blanc Pur [ABSOLUTION]", "mods": "HR", "status": "Unofficial", "rank": "S", "acc": "98.78%", "date": "2017/11/06", "touchscreen": ""},
-    {"pp": "719pp", "player": "Angelsim", "map": "9mm Parabellum Bullet - Inferno [The Eclipse]", "mods": "HR", "status": "Qualified", "rank": "A", "acc": "98.99%", "date": "2016/08/15", "touchscreen": ""}
+    {"pp": "719pp", "player": "Angelsim", "map": "9mm Parabellum Bullet - Inferno [The Eclipse]", "mods": "HR", "status": "Qualified", "rank": "A", "acc": "98.99%", "date": "2016/08/15", "touchscreen": ""},
+    {"pp": "1266pp", "player": "Emilia", "map": "07th expansion - rog-unlimitation [the only 7 star CS1 map on osu! (also a super op farm map)]", "mods": "HD DT HR", "status": "Unranked", "rank": "B", "acc": "84.20%", "date": "2017/07/13", "touchscreen": ""},
+    {"pp": "707pp", "player": "-GN", "map": "Nico Nico Douga - BARUSA of MIKOSU [TAG4]", "mods": "EZ HD", "status": "Loved", "rank": "S", "acc": "96.56%", "date": "2017/06/18", "touchscreen": ""}
 ];
 
 /* 700pp plays with same player, map and mods:
     {"pp": "704pp", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "touchscreen": ""},
-    {"pp": "715pp", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD HR DT", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "touchscreen": ""},
+    {"pp": "715pp", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "touchscreen": ""},
     {"pp": "717pp", "player": "Cookiezi", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "97.44", "date": "2016/10/18", "touchscreen": ""},
     {"pp": "761pp", "player": "Cookiezi", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/01/30", "touchscreen": ""}
 */
