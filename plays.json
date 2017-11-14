@@ -70,7 +70,8 @@ var values = [
     {"pp": "724pp", "player": "Haenes (Gatari)", "map": "ke-ji feat. Nanahira - Ange du Blanc Pur [ABSOLUTION]", "mods": "HR", "status": "Unofficial", "rank": "S", "acc": "98.78%", "date": "2017/11/06", "touchscreen": ""},
     {"pp": "719pp", "player": "Angelsim", "map": "9mm Parabellum Bullet - Inferno [The Eclipse]", "mods": "HR", "status": "Qualified", "rank": "A", "acc": "98.99%", "date": "2016/08/15", "touchscreen": ""},
     {"pp": "707pp", "player": "-GN", "map": "Nico Nico Douga - BARUSA of MIKOSU [TAG4]", "mods": "EZ HD", "status": "Loved", "rank": "S", "acc": "96.56%", "date": "2017/06/18", "touchscreen": ""},
-    {"pp": "1516pp", "player": "EbonSol", "map": "Jump Trainig - How fast can you jump? [deltaMax]", "mods": "HD DT", "status": "Unranked", "rank": "B", "acc": "92.32%", "date": "2017/08/02", "touchscreen": "true"},
+    {"pp": "1516pp", "player": "EbonSol", "map": "Jump Training - How fast can you jump? [deltaMax]", "mods": "HD DT", "status": "Unranked", "rank": "B", "acc": "92.32%", "date": "2017/08/02", "touchscreen": "true"},
+    {"pp": "754pp", "player": "Cookiezi", "map": "nameless - Milk Crown on Sonnetica [MiLk ShAke 9*]", "mods": "HD HR", "status": "Loved", "rank": "A", "acc": "97.30%", "date": "2017/02/16", "touchscreen": ""},
     
     {"pp": "704pp", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "touchscreen": ""},
     {"pp": "715pp", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "touchscreen": ""},
