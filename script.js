@@ -1,6 +1,7 @@
 var list;
 var hideTouchscreen = false;
 var hideUnranked = false;
+var hideOverwritten = false;
 
 function refresh() {
     var options = {
@@ -15,7 +16,7 @@ function refresh() {
     // TODO rank alphabet = "SABCD"
 }
 
-function filterA() {
+function filter() {
     var o;
     var ls;
     if(document.getElementsByClassName("desc").length == 0) {
@@ -29,23 +30,31 @@ function filterA() {
     list.filter(function(item) {
         if(hideUnranked && item.values().status != "Ranked")
             return false;
-        else if(hideTouchscreen && item.values().touchscreen == "true")
+        else if(hideTouchscreen && item.values().touchscreen != null && item.values().touchscreen == "true")
+            return false
+        else if(hideOverwritten && item.values().overwritten != null && item.values().overwritten == "true")
             return false
         else return true;
     });
     
     document.getElementById("hideTouchscreen").innerHTML = hideTouchscreen ? "Show touchscreen plays" : "Hide touchscreen plays";
-    document.getElementById("hideUnranked").innerHTML = hideUnranked ? "Show all plays" : "Hide unranked plays";
+    document.getElementById("hideUnranked").innerHTML = hideUnranked ? "Show unranked plays" : "Hide unranked plays";
+    document.getElementById("hideOverwritten").innerHTML = hideUnranked ? "Show overwritten plays*" : "Hide overwritten plays*";
 
     list.sort(ls, { order: o });
 }
 
 function filterTouchscreen() {
     hideTouchscreen = !hideTouchscreen;
-    filterA();
+    filter();
 }
 
 function filterRanked() {
     hideUnranked = !hideUnranked;
-    filterA();
+    filter();
+}
+
+function filterOverwritten() {
+    hideOverwritten = !hideOverwritten;
+    filter();
 }
