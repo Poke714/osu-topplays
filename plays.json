@@ -72,6 +72,7 @@ var values = [
     {"pp": "1516", "player": "EbonSol", "map": "Jump Training - How fast can you jump? [deltaMax]", "mods": "HD DT", "status": "Unranked", "rank": "B", "acc": "92.32%", "date": "2017/08/02", "touchscreen": "true"}, 
     {"pp": "754", "player": "Cookiezi", "map": "nameless - Milk Crown on Sonnetica [MiLk ShAke 9*]", "mods": "HD HR", "status": "Loved", "rank": "A", "acc": "97.30%", "date": "2017/02/16"},
     {"pp": "803", "player": "filsdelama", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD HR DT", "status": "Ranked", "rank": "S", "acc": "98.98%", "date": "2017/11/15"}, 
+    {"pp": "900", "player": "freedomdiver", "map": "Ayase Rie - Yuima-ru*World TVver.", "mods": "HD HR DT", "status": "Ranked", "rank": "C", "acc": "78.58%", "date": "2017/11/16", "touchscreen": "true"}, 
     {"pp": "708", "player": "freedomdiver", "map": "Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "90.10%", "date": "2017/09/09", "touchscreen": "true"}, 
     {"pp": "728", "player": "itsamemarioo", "map": "Drop - Granat [Expert]", "mods": "HD HR DT FL", "status": "Ranked", "rank": "C", "acc": "76.59%", "date": "2017/11/16", "touchscreen": "true"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
@@ -80,6 +81,9 @@ var values = [
     {"pp": "717", "player": "Cookiezi", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "97.44", "date": "2016/10/18", "overwritten": "true"},
     {"pp": "761", "player": "Cookiezi", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/01/30", "overwritten": "true"},
     {"pp": "705", "player": "itsamemarioo", "map": "Drop - Granat [Expert]", "mods": "HD DT HR FL", "status": "Ranked", "rank": "C", "acc": "75.87%", "date": "2017/10/15", "touchscreen": "true", "overwritten": "true"},
+    {"pp": "865", "player": "freedomdiver", "map": "Ayase Rie - Yuima-ru*World TVver.", "mods": "HD HR DT", "status": "Ranked", "rank": "C", "acc": "80.50%", "date": "2017/11/16", "touchscreen": "true", "overwritten": "true"}, 
+    {"pp": "893", "player": "freedomdiver", "map": "Ayase Rie - Yuima-ru*World TVver.", "mods": "HD HR DT", "status": "Ranked", "rank": "C", "acc": "77.83%", "date": "2017/11/16", "touchscreen": "true", "overwritten": "true"}, 
+    {"pp": "849", "player": "freedomdiver", "map": "Ayase Rie - Yuima-ru*World TVver.", "mods": "HD HR DT", "status": "Ranked", "rank": "B", "acc": "83.25%", "date": "2017/11/16", "touchscreen": "true", "overwritten": "true"}, 
     {"pp": "749", "player": "filsdelama", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD HR DT", "status": "Ranked", "rank": "S", "acc": "97.74%", "date": "2017/11/15", "overwritten": "true"}
 ];
 
