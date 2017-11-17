@@ -39,7 +39,7 @@ function filter() {
     
     document.getElementById("hideTouchscreen").innerHTML = hideTouchscreen ? "Show touchscreen plays" : "Hide touchscreen plays";
     document.getElementById("hideUnranked").innerHTML = hideUnranked ? "Show unranked plays" : "Hide unranked plays";
-    document.getElementById("hideOverwritten").innerHTML = hideUnranked ? "Show overwritten plays*" : "Hide overwritten plays*";
+    document.getElementById("hideOverwritten").innerHTML = hideOverwritten ? "Show overwritten plays*" : "Hide overwritten plays*";
 
     list.sort(ls, { order: o });
 }
