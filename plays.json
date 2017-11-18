@@ -76,6 +76,8 @@ var values = [
     {"pp": "708", "player": "freedomdiver", "map": "Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "90.10", "date": "2017/09/09", "touchscreen": "true"}, 
     {"pp": "728", "player": "itsamemarioo", "map": "Drop - Granat [Expert]", "mods": "HD HR DT FL", "status": "Ranked", "rank": "C", "acc": "76.59", "date": "2017/11/16", "touchscreen": "true"},
     {"pp": "756", "player": "filsdelama", "map": "Tapimiru - Hakkensha wa Watashi (Anime Size) [Kencho's Grimoire]", "mods": "HD HR DT", "status": "Ranked", "rank": "A", "acc": "97.16", "date": "2017/11/15"}, 
+    {"pp": "830", "player": "Mathi", "map": "Aitsuki Nakuru - Monochrome Butterfly", "mods": "HD DT", "status": "Loved", "rank": "A", "acc": "98.53", "date": "2017/11/18"},
+    {"pp": "761", "player": "Rafis", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD HR DT", "status": "Ranked", "rank": "S", "acc": "97.78", "date": "2017/11/18"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
