@@ -106,6 +106,10 @@ table tbody tr td:nth-child(2)::after {
     content: "pp"; 
 }
 
+table tbody tr td:nth-child(6)::after { 
+    content: "%"; 
+}
+
 #note {
     padding: 0.6em;
     border: 1px solid #3D3D3D;
