@@ -80,6 +80,7 @@ var values = [
     {"pp": "761", "player": "Rafis", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD HR DT", "status": "Ranked", "rank": "S", "acc": "97.78", "date": "2017/11/18"},
     {"pp": "707", "player": "Totoki", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD HR DT", "status": "Ranked", "rank": "S", "acc": "94.00", "date": "2017/11/27"},
     {"pp": "775", "player": "itsamemarioo", "map": "Drop - Granat [Expert]", "mods": "HD HR DT FL", "status": "Ranked", "rank": "C", "acc": "79.23", "date": "2017/11/27"},
+    {"pp": "732", "player": "filsdelama", "map": "tokiwa yuu - shounen ripples [Arles]", "mods": "-", "status": "Loved", "rank": "S", "acc": "99.83", "date": "2017/12/01"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
