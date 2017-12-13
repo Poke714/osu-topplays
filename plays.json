@@ -84,6 +84,7 @@ var values = [
     {"pp": "772", "player": "Totoki", "map": "kradness&Reol - Remote Control [Remote Control]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.81", "date": "2017/12/06"},
     {"pp": "717", "player": "Totoki", "map": "kradness&Reol - Remote Control [Remote Control]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "97.44", "date": "2017/12/06"},
     {"pp": "709", "player": "Cookiezi", "map": "nano - Bull's Eye [Aria]", "mods": "HD HR", "status": "Loved", "rank": "S", "acc": "99.66", "date": "2017/12/06"},
+    {"pp": "836", "player": "freedomdiver", "map": "Reol - No Title [jieusieu's Lemur]", "mods": "HD NC", "status": "Ranked", "rank": "C", "acc": "81.38", "date": "2017/12/13"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
