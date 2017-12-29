@@ -90,6 +90,8 @@ var values = [
     {"pp": "715", "player": "Karthy", "map": "Nogizaka46 - Yubi Bouenkyou ~Anime-ban~ [~A r M i N's Adventure~]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.79", "date": "2017/12/19"},
     {"pp": "727", "player": "_RyuK", "map": "Nogizaka46 - Yubi Bouenkyou ~Anime-ban~ [~A r M i N's Adventure~]", "mods": "HD DT", "status": "Ranked", "rank": "SS", "acc": "100.00", "date": "2017/12/21"},
     {"pp": "815", "player": "Haenes (Gatari)", "map": "GYZE - Honesty [Dishonest]", "mods": "HR", "status": "Unofficial", "rank": "S", "acc": "98.65", "date": "2017/12/27"},
+    {"pp": "781", "player": "Mathi", "map": "MOMOIRO CLOVER Z - SANTA SAN [Gift]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.65", "date": "2017/12/29"},
+    {"pp": "715", "player": "Mathi", "map": "TrySail - High Free Spirits -TV.Ver- [StarR's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "96.75", "date": "2017/12/29"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
