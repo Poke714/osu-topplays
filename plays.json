@@ -97,6 +97,8 @@ var values = [
     {"pp": "796", "player": "Totoki", "map": "MISATO - Necro Fantasia [Lasse's Lunatic]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "97.99", "date": "2018/01/06"},
     {"pp": "714", "player": "Totoki", "map": "Ni-Sokkususu - Blade Dance [Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "95.35", "date": "2018/01/07"},
     {"pp": "710", "player": "firebat92", "map": "Thaehan - Doki-Doki [Adrenaline Rush]", "mods": "HR", "status": "Loved", "rank": "S", "acc": "99.44", "date": "2018/01/08"},
+    {"pp": "724", "player": "Mathi", "map": "*namirin - Koi no Hime Hime Pettanko [Sweet Sweet Angel]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.13", "date": "2018/01/09"}, 
+    {"pp": "701", "player": "Mathi", "map": "Saiya - Remote Control [Take Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.57", "date": "2018/01/10"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
