@@ -1,7 +1,12 @@
 var list;
-var hideTouchscreen = false;
+var hideTouchscreen = true;
 var hideUnranked = false;
 var hideOverwritten = false;
+
+function onload() {
+    refresh()
+    filter()
+}
 
 function refresh() {
     var options = {
