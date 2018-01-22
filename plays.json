@@ -102,6 +102,7 @@ var values = [
     {"pp": "716", "player": "ThePooN", "map": "BABYMETAL - Road of Resistance [Crimson Rebellion]", "mods": "-", "status": "Ranked", "rank": "S", "acc": "99.16", "date": "2018/01/11"},
     {"pp": "709", "player": "Cookiezi", "map": "Yousei Teikoku - Hades: The rise", "mods": "HD HR", "status": "Ranked", "rank": "SS", "acc": "100.00", "date": "2018/01/11"}, 
     {"pp": "713", "player": "Cookiezi", "map": "Foreground Eclipse - From Under Cover (Caught Up In A Love Song) [I've Stopped Time and Everything is at My Mercy]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.85", "date": "2018/01/20"}, 
+    {"pp": "829", "player": "Rafis", "map": "MISATO - Necro Fantasia [Lasse's Lunatic]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.72", "date": "2018/01/22"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
