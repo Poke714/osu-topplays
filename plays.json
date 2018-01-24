@@ -106,6 +106,7 @@ var values = [
     {"pp": "744", "player": "osu player84", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.43", "date": "2017/09/29", "overwritten": "true"}, 
     {"pp": "757", "player": "osu player84", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.77", "date": "2017/09/29"}, 
     {"pp": "730", "player": "osu player84", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.57", "date": "2017/09/29", "overwritten": "true"}, 
+    {"pp": "709", "player": "fieryrage", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD HR DT", "status": "Ranked", "rank": "S", "acc": "94.22", "date": "2018/01/24"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
