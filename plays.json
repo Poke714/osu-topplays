@@ -115,6 +115,7 @@ var values = [
     {"pp": "712", "player": "Cookiezi", "map": "penoreri - Preserved Valkyria [Arles]", "mods": "HD HR", "status": "Loved", "rank": "A", "acc": "97.84", "date": "2018/02/17"}, 
     {"pp": "715", "player": "osu player84", "map": "LiSA - Datte Atashi no Hero. -TV ver.- [Plus Ultra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.85", "date": "2018/02/19"}, 
     {"pp": "833", "player": "Alumetri", "map": "Various Artists - Songs Compilation [Marathon]", "mods": "HD DT", "status": "Unranked", "rank": "S", "acc": "98.24", "date": "2018/02/20"}, 
+    {"pp": "705", "player": "a_Blue", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD HR DT", "status": "Ranked", "rank": "S", "acc": "94.00", "date": "2018/02/21"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
