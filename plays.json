@@ -117,9 +117,10 @@ var values = [
     {"pp": "833", "player": "Alumetri", "map": "Various Artists - Songs Compilation [Marathon]", "mods": "HD DT", "status": "Unranked", "rank": "S", "acc": "98.24", "date": "2018/02/20"}, 
     {"pp": "705", "player": "a_Blue", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "94.00", "date": "2018/02/21"},
     {"pp": "848", "player": "Kumagai Eri", "map": "Yamajet feat. Hiura Masako - Sunglow [Melody]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.49", "date": "2018/02/23"},
-    {"pp": "738", "player": "Kumagai Eri", "map": "ClariS - Kimi no shiranai monogatari [Serenity]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.07", "date": "2018/02/23"},
+    {"pp": "738", "player": "Kumagai Eri", "map": "ClariS - Kimi no shiranai monogatari [Serenity]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.07", "date": "2018/02/23", "overwritten": "true"},
     {"pp": "731", "player": "FlyingTuna", "map": "Aitsuki Nakuru - Monochrome Butterfly [Extra]", "mods": "HD DT", "status": "Loved", "rank": "A", "acc": "95.97", "date": "2018/02/23"},
     {"pp": "761", "player": "Kumagai Eri", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "97.78", "date": "2018/02/23"},
+    {"pp": "841", "player": "Kumagai Eri", "map": "ClariS - Kimi no shiranai monogatari [Serenity]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.49", "date": "2018/02/23"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
