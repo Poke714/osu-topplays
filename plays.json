@@ -107,7 +107,7 @@ var values = [
     {"pp": "757", "player": "osu player84", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.77", "date": "2017/09/29"}, 
     {"pp": "730", "player": "osu player84", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.57", "date": "2017/09/29", "overwritten": "true"}, 
     {"pp": "709", "player": "fieryrage", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "94.22", "date": "2018/01/24"},
-    {"pp": "740", "player": "Kumagai Eri", "map": "ClariS - Kimi no Shiranai Monogatari [Serenity]", "mods": "HD DT", "status": "Unranked", "rank": "S", "acc": "97.48", "date": "2018/02/01"},
+    {"pp": "740", "player": "Kumagai Eri", "map": "ClariS - Kimi no Shiranai Monogatari [Serenity]", "mods": "HD DT", "status": "Unranked", "rank": "S", "acc": "97.48", "date": "2018/02/01", "overwritten": "true"},
     {"pp": "741", "player": "Abyssal", "map": "BABYMETAL - Road of Resistance [Crimson Rebellion]", "mods": "-", "status": "Ranked", "rank": "S", "acc": "99.71", "date": "2018/02/09"},
     {"pp": "753", "player": "_RyuK", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.41", "date": "2018/02/12"}, 
     {"pp": "806", "player": "Dustice", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.37", "date": "2018/02/15"}, 
@@ -119,6 +119,7 @@ var values = [
     {"pp": "848", "player": "Kumagai Eri", "map": "Yamajet feat. Hiura Masako - Sunglow [Melody]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.49", "date": "2018/02/23"},
     {"pp": "738", "player": "Kumagai Eri", "map": "ClariS - Kimi no shiranai monogatari [Serenity]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.07", "date": "2018/02/23"},
     {"pp": "731", "player": "FlyingTuna", "map": "Aitsuki Nakuru - Monochrome Butterfly [Extra]", "mods": "HD DT", "status": "Loved", "rank": "A", "acc": "95.97", "date": "2018/02/23"},
+    {"pp": "761", "player": "Kumagai Eri", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "97.78", "date": "2018/02/23"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
