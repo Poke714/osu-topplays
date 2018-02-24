@@ -43,9 +43,7 @@ th.a {
     padding: 1em;
 }
 
-.button {
-    margin-bottom: 1em;
-    margin-right: 0.7em;
+.button, .mod {
     padding: 0.6em;
     color: white;
     background-color: #454545;
@@ -54,6 +52,24 @@ th.a {
     transition: color 0.1s;
     cursor: pointer;
     user-select: none;
+}
+
+.button {
+    margin-right: 0.7em;
+    margin-bottom: 1em;
+}
+
+.mod {
+    margin-right: 0.3em;
+    margin-top: 0.6em;
+}
+
+.mod.on {
+    color: #F573AD;
+}
+
+.mod:last-child {
+    margin-right: 0;
 }
 
 table {
@@ -110,8 +126,10 @@ table tbody tr td:nth-child(6)::after {
     content: "%"; 
 }
 
-#note {
+.box {
+    display: inline-block;
     padding: 0.6em;
     border: 1px solid #3D3D3D;
     margin-bottom: 1em;
+    margin-right: 0.7em;
 }

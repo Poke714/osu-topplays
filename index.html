@@ -24,14 +24,39 @@
         </header>
         
         <div id="plays">
-            <div id="note">
+            <div><div class="box">
                 Note: This list doesn't include maps that abuse the pp system without increasing difficulty such as <a href="https://osu.ppy.sh/s/594092">this</a> or <a href="https://osu.ppy.sh/b/847257">this</a> map.
                 <!--<a href="http://www.strawpoll.me/14260478">Should this list include multiple plays with the same player, map and mods? (eg. both of Rafis' Best FriendS plays with HD HR DT)</a>-->
+            </div></div>
+            
+            <div>
+                <a class="button" id="hideTouchscreen" onclick="filterTouchscreen()">Hide touchscreen plays</a>
+                <a class="button" id="hideUnranked" onclick="filterRanked()">Hide unranked plays</a>
+                <a class="button" id="hideOverwritten" onclick="filterOverwritten()" title="Overwritten means that there is a better play with same player, map and mods">Hide overwritten plays*</a>
             </div>
             
-            <a class="button" id="hideTouchscreen" onclick="filterTouchscreen()">Hide touchscreen plays</a>
-            <a class="button" id="hideUnranked" onclick="filterRanked()">Hide unranked plays</a>
-            <a class="button" id="hideOverwritten" onclick="filterOverwritten()" title="Overwritten means that there is a better play with same player, map and mods">Hide overwritten plays*</a>
+            <div>
+                <div class="box">
+                    Include mod:<br>
+                    <a class="mod off" id="includeEZ" onclick="include('EZ')">EZ</a>
+                    <a class="mod off" id="includeHT" onclick="include('HT')">HT</a>
+                    <a class="mod off" id="includeHD" onclick="include('HD')">HD</a>
+                    <a class="mod off" id="includeHR" onclick="include('HR')">HR</a>
+                    <a class="mod off" id="includeDT" onclick="include('DT')">DT</a>
+                    <a class="mod off" id="includeFL" onclick="include('FL')">FL</a>
+                    <a class="mod off" id="includeSO" onclick="include('SO')">SO</a>
+                </div>
+                <div class="box">
+                    Exclude mod:<br>
+                    <a class="mod off" id="excludeEZ" onclick="exclude('EZ')">EZ</a>
+                    <a class="mod off" id="excludeHT" onclick="exclude('HT')">HT</a>
+                    <a class="mod off" id="excludeHD" onclick="exclude('HD')">HD</a>
+                    <a class="mod off" id="excludeHR" onclick="exclude('HR')">HR</a>
+                    <a class="mod off" id="excludeDT" onclick="exclude('DT')">DT</a>
+                    <a class="mod off" id="excludeFL" onclick="exclude('FL')">FL</a>
+                    <a class="mod off" id="excludeSO" onclick="exclude('SO')">SO</a>
+                </div>
+            </div>
             
             <table>
                 <thead>
