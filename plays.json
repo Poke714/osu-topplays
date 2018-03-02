@@ -56,7 +56,7 @@ var values = [
     {"pp": "707", "player": "osu player84", "map": "*namirin - Koi no Hime Hime Pettanko [Taeyang's Ultra Princess]", "mods": "HD DT", "status": "Ranked", "rank": "SS", "acc": "100.00", "date": "2017/10/14"}, 
     {"pp": "746", "player": "osu player84", "map": "TrySail - High Free Spirits -TV.Ver- [Skystar's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.82", "date": "2017/10/19"}, 
     {"pp": "730", "player": "osu player84", "map": "Chino - Shinsaku no Shiawase wa Kochira! [Happy~!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.50", "date": "2017/10/19"}, 
-    {"pp": "726", "player": "Cookiezi", "map": "Linkin Park - Guilty All The Same[Shame]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.25", "date": "2017/10/13"}, 
+    {"pp": "726", "player": "Cookiezi", "map": "Linkin Park - Guilty All The Same [Shame]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.25", "date": "2017/10/13"}, 
     {"pp": "733", "player": "Aireu", "map": "9mm Parabellum Bullet - Inferno [The Eclipse]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.50", "date": "2017/10/3"}, 
     {"pp": "744", "player": "EbonSol", "map": "Drop - Granat [Kyshiro's Extra]", "mods": "HD DT FL", "status": "Ranked", "rank": "C", "acc": "78.63", "date": "2017/10/22", "touchscreen": "true"}, 
     {"pp": "720", "player": "Vaxei", "map": "Saiya - Remote control [Take Control!]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.28", "date": "2017/09/10"}, 
@@ -122,6 +122,7 @@ var values = [
     {"pp": "761", "player": "Kumagai Eri", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "97.78", "date": "2018/02/23"},
     {"pp": "841", "player": "Kumagai Eri", "map": "ClariS - Kimi no shiranai monogatari [Serenity]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.49", "date": "2018/02/23"},
     {"pp": "762", "player": "idke", "map": "xi - Halcyon -Long Version- [ONE DIMENSION]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.90", "date": "2018/02/23"},
+    {"pp": "713", "player": "Cookiezi", "map": "Linkin Park - Guilty All The Same [Shame]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.32", "date": "2018/03/02", "overwritten": "true"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
