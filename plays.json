@@ -123,6 +123,8 @@ var values = [
     {"pp": "841", "player": "Kumagai Eri", "map": "ClariS - Kimi no shiranai monogatari [Serenity]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.49", "date": "2018/02/23"},
     {"pp": "762", "player": "idke", "map": "xi - Halcyon -Long Version- [ONE DIMENSION]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.90", "date": "2018/02/23"},
     {"pp": "713", "player": "Cookiezi", "map": "Linkin Park - Guilty All The Same [Shame]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.32", "date": "2018/03/02", "overwritten": "true"}, 
+    {"pp": "711", "player": "idke", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.92", "date": "2018/03/10"}, 
+    {"pp": "757", "player": "idke", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Qualified", "rank": "S", "acc": "99.37", "date": "2018/03/10"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
