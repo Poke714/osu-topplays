@@ -129,6 +129,7 @@ var values = [
     {"pp": "706", "player": "Rafis", "map": "Aitsuki Nakuru - Monochrome Butterfly [Extra]", "mods": "HD DT", "status": "Loved", "rank": "A", "acc": "96.36", "date": "2018/03/11"}, 
     {"pp": "740", "player": "lain", "map": "Cass2 - Gravity Falls Theme Song- 16 Bit Mix [Expert]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "99.06", "date": "2018/03/13"}, 
     {"pp": "730", "player": "MrBooM", "map": "ke-ji feat. Nanahira - Ange du Blanc Pur [ABSOLUTION]", "mods": "HD HR", "status": "Loved", "rank": "S", "acc": "97.90", "date": "2018/03/15"}, 
+    {"pp": "708", "player": "Alumetri", "map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "94.28", "date": "2018/03/16"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
