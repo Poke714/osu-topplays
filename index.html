@@ -23,7 +23,7 @@
             <span><a href="http://osu.ppy.sh/u/Poke714">Poke714</a></span>
         </header>
         
-        <div id="plays">
+        <div id="top">
             <div><div class="box">
                 Note: This list doesn't include maps that abuse the pp system without increasing difficulty such as <a href="https://osu.ppy.sh/s/594092">this</a> or <a href="https://osu.ppy.sh/b/847257">this</a> map.
                 <!--<a href="http://www.strawpoll.me/14260478">Should this list include multiple plays with the same player, map and mods? (eg. both of Rafis' Best FriendS plays with HD HR DT)</a>-->
@@ -57,22 +57,22 @@
                     <a class="mod off" id="excludeSO" onclick="exclude('SO')">SO</a>
                 </div>
             </div>
-            
-            <table>
-                <thead>
-                    <th>#</th>
-                    <th class="sort" data-sort="pp">pp</th>
-                    <th class="sort" data-sort="player">Player</th>
-                    <th class="sort" data-sort="map">Map</th>
-                    <th class="sort" data-sort="mods">Mods</th>
-                    <th class="sort" data-sort="acc">Accuracy</th>
-                    <th class="sort" data-sort="rank">Rank</th>
-                    <th class="sort" data-sort="status">Status</th>
-                    <th class="sort" data-sort="date" title="YYYY/MM/DD">Date (UTC)*</th>
-                </thead>
-                <tbody class="list">
-                </tbody>
-            </table>
         </div>
+            
+        <table id="plays">
+            <thead>
+                <th>#</th>
+                <th class="sort" data-sort="pp">pp</th>
+                <th class="sort" data-sort="player">Player</th>
+                <th class="sort" data-sort="map">Map</th>
+                <th class="sort" data-sort="mods">Mods</th>
+                <th class="sort" data-sort="acc">Accuracy</th>
+                <th class="sort" data-sort="rank">Rank</th>
+                <th class="sort" data-sort="status">Status</th>
+                <th class="sort" data-sort="date" title="YYYY/MM/DD">Date (UTC)*</th>
+            </thead>
+            <tbody class="list">
+            </tbody>
+        </table>
     </body>
 </html>

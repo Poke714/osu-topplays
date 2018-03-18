@@ -39,8 +39,14 @@ th.a {
     color: inherit;
 }
 
+#top {
+    padding: 1em;
+    padding-bottom: 0;
+}
+
 #plays {
     padding: 1em;
+    padding-top: 0;
 }
 
 .button, .mod {
@@ -62,9 +68,14 @@ th.a {
 .mod {
     margin-right: 0.3em;
     margin-top: 0.6em;
+    font-weight: bold;
 }
 
 .mod.on {
+    color: #d13e96;
+}
+
+.mod:hover {
     color: #F573AD;
 }
 
