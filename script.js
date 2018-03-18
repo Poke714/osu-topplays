@@ -1,5 +1,4 @@
 var list;
-var hideTouchscreen = true;
 var hideUnranked = false;
 var hideOverwritten = false;
 
@@ -50,7 +49,6 @@ function filter() {
     
     list.filter(function(item) {
         if(hideUnranked && item.values().status != "Ranked") return false;
-        else if(hideTouchscreen && item.values().touchscreen != null && item.values().touchscreen == "true") return false
         else if(hideOverwritten && item.values().overwritten != null && item.values().overwritten == "true") return false
         else if(includeEZ && !item.values().mods.includes("EZ")) return false
         else if(includeHT && !item.values().mods.includes("HT")) return false
@@ -69,16 +67,10 @@ function filter() {
         else return true;
     });
     
-    document.getElementById("hideTouchscreen").innerHTML = hideTouchscreen ? "Show touchscreen plays" : "Hide touchscreen plays";
     document.getElementById("hideUnranked").innerHTML = hideUnranked ? "Show unranked plays" : "Hide unranked plays";
     document.getElementById("hideOverwritten").innerHTML = hideOverwritten ? "Show overwritten plays*" : "Hide overwritten plays*";
 
     list.sort(ls, { order: o });
-}
-
-function filterTouchscreen() {
-    hideTouchscreen = !hideTouchscreen;
-    filter();
 }
 
 function filterRanked() {
