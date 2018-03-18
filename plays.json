@@ -45,7 +45,7 @@ var values = [
     {"pp": "717", "player": "Dustice", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "98.15", "date": "2017/01/26", "overwritten": "true"}, 
     {"pp": "704", "player": "_RyuK", "map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.76", "date": "2017/08/04", "overwritten": "true"}, 
     {"pp": "741", "player": "Rafis", "map": "ke-ji feat. Nanahira - Ange du Blanc Pur [ABSOLUTION]", "mods": "HR", "status": "Loved", "rank": "S", "acc": "99.17", "date": "2017/08/22"}, 
-    {"pp": "700", "player": "kablaze", "map": "dj TAKA - quaver [Crescendo]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.77", "date": "2017/08/24"}, 
+    {"pp": "700", "player": "Kip", "map": "dj TAKA - quaver [Crescendo]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.77", "date": "2017/08/24"}, 
     {"pp": "713", "player": "Rafis", "map": "Saiya - Remote Control [Take Control!]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.18", "date": "2017/09/19"}, 
     {"pp": "720", "player": "Rafis", "map": "*Namirin - Yasashisa no Riyuu [Happiness]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.68", "date": "2017/09/19"}, 
     {"pp": "726", "player": "Rafis", "map": "ClariS - Hitorigoto -TV MIX- [Soliloquy]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "99.41", "date": "2017/09/18"}, 
