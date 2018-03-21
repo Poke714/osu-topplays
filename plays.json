@@ -124,6 +124,7 @@ var values = [
     {"pp": "770", "player": "idke", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.60", "date": "2018/03/16"},
     {"pp": "728", "player": "Vaxei", "map": "TRUE - DREAM SOLISTER [Melody]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.43", "date": "2018/03/18"},
     {"pp": "739", "player": "Vaxei", "map": "ClariS - Kimi no shiranai monogatari [Serenity]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.01", "date": "2018/03/18"},
+    {"pp": "778", "player": "filsdelama", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.71", "date": "2018/03/21"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
