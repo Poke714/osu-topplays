@@ -125,6 +125,10 @@ var values = [
     {"pp": "728", "player": "Vaxei", "map": "TRUE - DREAM SOLISTER [Melody]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.43", "date": "2018/03/18"},
     {"pp": "739", "player": "Vaxei", "map": "ClariS - Kimi no shiranai monogatari [Serenity]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.01", "date": "2018/03/18"},
     {"pp": "778", "player": "filsdelama", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.71", "date": "2018/03/21"},
+    {"pp": "801", "player": "C O I N (Ripple)", "map": "Various Artists - Songs Compilation [Marathon]", "mods": "HD DT", "status": "Unofficial", "rank": "A", "acc": "98.77", "date": "2018/03/22"},
+    {"pp": "710", "player": "uyghti", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.39", "date": "2018/03/22"},
+    {"pp": "727", "player": "C O I N (Ripple)", "map": "Nogizaka46 - Yubi Bouenkyou ~Anime-ban~ [~A r M i N's Adventure~]", "mods": "HD DT", "status": "Unofficial", "rank": "SS", "acc": "100.00", "date": "2018/03/22"},
+    {"pp": "759", "player": "C O I N (Ripple)", "map": "Aitsuki Nakuru - Monochrome Butterfly [Extra]", "mods": "HD DT", "status": "Unofficial", "rank": "A", "acc": "98.53", "date": "2018/03/22"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
