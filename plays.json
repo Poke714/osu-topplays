@@ -50,7 +50,7 @@ var values = [
     {"pp": "711", "player": "Rafis", "map": "HoneyWorks - Akatsuki Zukuyo [Taeyang's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.19", "date": "2017/09/17"}, 
     {"pp": "704", "player": "Rafis", "map": "Hana - Sakura no Uta [Euphoria]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.84", "date": "2017/10/10"}, 
     {"pp": "718", "player": "idke", "map": "BABYMETAL - Road of Resistance [Crimson Rebellion]", "mods": "-", "status": "Ranked", "rank": "S", "acc": "99.23", "date": "2017/09/23"}, 
-    {"pp": "740", "player": "osu player84", "map": "Agnete Kjølsrud - Get Jinxed [Master]", "mods": "HD DT", "status": "Ranked", "rank": "SS", "acc": "100.00", "date": "2017/10/01"}, 
+    {"pp": "740", "player": "osu player84", "map": "Agnete Kjolsrud - Get Jinxed [Master]", "mods": "HD DT", "status": "Ranked", "rank": "SS", "acc": "100.00", "date": "2017/10/01"}, 
     {"pp": "707", "player": "osu player84", "map": "*namirin - Koi no Hime Hime Pettanko [Taeyang's Ultra Princess]", "mods": "HD DT", "status": "Ranked", "rank": "SS", "acc": "100.00", "date": "2017/10/14"}, 
     {"pp": "746", "player": "osu player84", "map": "TrySail - High Free Spirits -TV.Ver- [Skystar's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.82", "date": "2017/10/19"}, 
     {"pp": "730", "player": "osu player84", "map": "Chino - Shinsaku no Shiawase wa Kochira! [Happy~!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.50", "date": "2017/10/19"}, 
@@ -129,6 +129,8 @@ var values = [
     {"pp": "710", "player": "uyghti", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.39", "date": "2018/03/22"},
     {"pp": "727", "player": "C O I N (Ripple)", "map": "Nogizaka46 - Yubi Bouenkyou ~Anime-ban~ [~A r M i N's Adventure~]", "mods": "HD DT", "status": "Unofficial", "rank": "SS", "acc": "100.00", "date": "2018/03/22"},
     {"pp": "759", "player": "C O I N (Ripple)", "map": "Aitsuki Nakuru - Monochrome Butterfly [Extra]", "mods": "HD DT", "status": "Unofficial", "rank": "A", "acc": "98.53", "date": "2018/03/22"},
+    {"pp": "798", "player": "Mathi", "map": "Tapimiru - Hakkensha wa Watashi (Anime Size) [Kencho's Grimoire]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "96.38", "date": "2018/03/22"}, 
+    {"pp": "714", "player": "C O I N (Ripple)", "map": "Agnete Kjolsrud - Get Jinxed [Extra]", "mods": "HD DT", "status": "Unofficial", "rank": "S", "acc": "99.56", "date": "2018/03/22"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
