@@ -115,7 +115,7 @@ var values = [
     {"pp": "762", "player": "idke", "map": "xi - Halcyon -Long Version- [ONE DIMENSION]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.90", "date": "2018/02/23"},
     {"pp": "713", "player": "Cookiezi", "map": "Linkin Park - Guilty All The Same [Shame]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.32", "date": "2018/03/02", "overwritten": "true"}, 
     {"pp": "711", "player": "idke", "map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.92", "date": "2018/03/10"}, 
-    {"pp": "757", "player": "idke", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Qualified", "rank": "S", "acc": "99.37", "date": "2018/03/10"}, 
+    {"pp": "757", "player": "idke", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Qualified", "rank": "S", "acc": "99.37", "date": "2018/03/10", "overwritten": "true"}, 
     {"pp": "700", "player": "Alumetri", "map": "Drop - Granat [Expert]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "95.99", "date": "2018/03/11"}, 
     {"pp": "706", "player": "Rafis", "map": "Aitsuki Nakuru - Monochrome Butterfly [Extra]", "mods": "HD DT", "status": "Loved", "rank": "A", "acc": "96.36", "date": "2018/03/11"}, 
     {"pp": "740", "player": "lain", "map": "Cass2 - Gravity Falls Theme Song- 16 Bit Mix [Expert]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "99.06", "date": "2018/03/13"}, 
