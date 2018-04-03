@@ -44,11 +44,6 @@ th.a {
     padding-bottom: 0;
 }
 
-#plays {
-    padding: 1em;
-    padding-top: 0;
-}
-
 .button, .mod {
     padding: 0.6em;
     color: white;
@@ -84,11 +79,14 @@ th.a {
 }
 
 table {
-    text-align: center;
     display: block;
+    margin: 1em;
+    margin-top: 0;
+    text-align: center;
     overflow: auto;
     white-space: nowrap;
-    border-collapse: collapse; 
+    border-collapse: collapse;
+    counter-reset: rowNumber;
 }
 
 table th {
@@ -112,16 +110,21 @@ table td, table th {
     padding: 0.6em;
 }
 
-table {
-    counter-reset: rowNumber;
+table tr td, table thead th {
+    border: 1px solid #3D3D3D;
 }
 
-table tr, table thead th {
+table thead th {
     border: 1px solid #3D3D3D;
 }
 
 table tbody tr {
     counter-increment: rowNumber;
+}
+
+table tbody tr td {
+    max-width: 40em;
+    white-space: pre-wrap;
 }
 
 table tbody tr td:first-child::before {
