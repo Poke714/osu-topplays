@@ -110,7 +110,7 @@ table td, table th {
     padding: 0.6em;
 }
 
-table tr td, table thead th {
+table tr, table thead th {
     border: 1px solid #3D3D3D;
 }
 
@@ -120,11 +120,6 @@ table thead th {
 
 table tbody tr {
     counter-increment: rowNumber;
-}
-
-table tbody tr td {
-    max-width: 40em;
-    white-space: pre-wrap;
 }
 
 table tbody tr td:first-child::before {
