@@ -141,6 +141,9 @@ var values = [
     {"pp": "840", "player": "firebat92", "map": "Aitsuki Nakuru - Monochrome Butterfly [Extra]", "mods": "HD DT", "status": "Loved", "rank": "A", "acc": "98.92", "date": "2018/04/14"},
     {"pp": "757", "player": "Alumetri", "map": "Cass2 - Gravity Falls Theme Song- 16 Bit Mix [Expert]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "99.53", "date": "2018/04/14"}, 
     {"pp": "762", "player": "fieryrage", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.45", "date": "2018/04/13"}, 
+    {"pp": "702", "player": "Mathi", "map": "nonet - Now On Stage!! [Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.54", "date": "2018/04/15"}, 
+    {"pp": "792", "player": "Mathi", "map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.12", "date": "2018/04/15"}, 
+    {"pp": "777", "player": "firebat92", "map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.06", "date": "2018/04/16"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23", "overwritten": "true"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12", "overwritten": "true"}, 
