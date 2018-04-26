@@ -49,7 +49,7 @@ function filter() {
     
     list.filter(function(item) {
         if(hideUnranked && item.values().status != "Ranked") return false;
-        else if(hideOverwritten && item.values().overwritten != null && item.values().overwritten == "true") return false
+        //else if(hideOverwritten && item.values().overwritten != null && item.values().overwritten == "true") return false
         else if(includeEZ && !item.values().mods.includes("EZ")) return false
         else if(includeHT && !item.values().mods.includes("HT")) return false
         else if(includeHD && !item.values().mods.includes("HD")) return false
@@ -64,7 +64,14 @@ function filter() {
         else if(excludeDT && item.values().mods.includes("DT")) return false
         else if(excludeFL && item.values().mods.includes("FL")) return false
         else if(excludeSO && item.values().mods.includes("SO")) return false
-        else return true;
+        else if(hideOverwritten) {
+            for(j = 0; j < list.items.length; j++) {
+                if(item.values().player == list.items[j].values().player && item.values().map == list.items[j].values().map && item.values().mods == list.items[j].values().mods) {
+                    if((Number(item.values().pp) < Number(list.items[j].values().pp) || (item.values().status != "Ranked" && list.items[j].values().status == "Ranked"))) return false
+                }
+            }
+        }
+        return true;
     });
     
     document.getElementById("hideUnranked").innerHTML = hideUnranked ? "Show unranked plays" : "Hide unranked plays";

@@ -6,7 +6,7 @@
         <meta name="description" content="Leaderboard of all 700+pp plays">
         <meta name="theme-color" content="#F573AD">
         
-        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato|Roboto,300" rel="stylesheet">
         <link rel="stylesheet" href="style.css">
         
         <link rel="icon" type="image/png" href="favicon/16x16.png" sizes="16x16">  
@@ -23,55 +23,67 @@
             <span><a href="http://osu.ppy.sh/u/Poke714">Poke714</a></span>
         </header>
         
-        <div id="top">
-            <div><div class="box">
-                Note: This list doesn't include maps that abuse the pp system without increasing difficulty such as <a href="https://osu.ppy.sh/s/594092">this</a> or <a href="https://osu.ppy.sh/b/847257">this</a> map.
-                <!--<a href="http://www.strawpoll.me/14260478">Should this list include multiple plays with the same player, map and mods? (eg. both of Rafis' Best FriendS plays with HD HR DT)</a>-->
-            </div></div>
-            
-            <div>
-                <a class="button" id="hideUnranked" onclick="filterRanked()">Hide unranked plays</a>
-                <a class="button" id="hideOverwritten" onclick="filterOverwritten()" title="Overwritten means that there is a better play with same player, map and mods">Hide overwritten plays*</a>
-            </div>
-            
-            <div>
-                <div class="box">
-                    Include mod:<br>
-                    <a class="mod off" id="includeEZ" onclick="include('EZ')">EZ</a>
-                    <a class="mod off" id="includeHT" onclick="include('HT')">HT</a>
-                    <a class="mod off" id="includeHD" onclick="include('HD')">HD</a>
-                    <a class="mod off" id="includeHR" onclick="include('HR')">HR</a>
-                    <a class="mod off" id="includeDT" onclick="include('DT')">DT</a>
-                    <a class="mod off" id="includeFL" onclick="include('FL')">FL</a>
-                    <a class="mod off" id="includeSO" onclick="include('SO')">SO</a>
+        <div id="sections">
+            <section>
+                <h1>A list of <b>all</b> 700+pp osu! plays, regardless of whether they're ranked or not</h1>
+                <p>This list contains all plays the are or would be worth 700 or more pp. It includes plays on non-ranked maps as well as legit plays on other servers.</p>
+                <span class="box">
+                    Note: This list doesn't include maps that abuse the pp system without increasing difficulty such as <a href="https://osu.ppy.sh/s/594092">this</a> or <a href="https://osu.ppy.sh/b/847257">this</a> [INVISIBLE&nbsp;SPINNER] map.
+                    <!--<a href="http://www.strawpoll.me/14260478">Should this list include multiple plays with the same player, map and mods? (eg. both of Rafis' Best FriendS plays with HD HR DT)</a>-->
+                </span>
+                
+            </section>
+            <section>
+                <h1>Filter</h1>
+                <span>
+                    <a class="button" id="hideUnranked" onclick="filterRanked()">Hide unranked plays</a>
+                    <a class="button" id="hideOverwritten" onclick="filterOverwritten()" title="Overwritten means that there is a play with same player, map and mods, worth more pp or made on a ranked, previously unranked map">Hide overwritten plays*</a>
+                </span>
+
+                <span>
+                    <div class="box">
+                        Include&nbsp;mod:<br>
+                        <a class="mod off" id="includeEZ" onclick="include('EZ')">EZ</a>
+                        <a class="mod off" id="includeHT" onclick="include('HT')">HT</a>
+                        <a class="mod off" id="includeHD" onclick="include('HD')">HD</a>
+                        <a class="mod off" id="includeHR" onclick="include('HR')">HR</a>
+                        <a class="mod off" id="includeDT" onclick="include('DT')">DT</a>
+                        <a class="mod off" id="includeFL" onclick="include('FL')">FL</a>
+                        <a class="mod off" id="includeSO" onclick="include('SO')">SO</a>
+                    </div>
+                    <div class="box">
+                        Exclude&nbsp;mod:<br>
+                        <a class="mod off" id="excludeEZ" onclick="exclude('EZ')">EZ</a>
+                        <a class="mod off" id="excludeHT" onclick="exclude('HT')">HT</a>
+                        <a class="mod off" id="excludeHD" onclick="exclude('HD')">HD</a>
+                        <a class="mod off" id="excludeHR" onclick="exclude('HR')">HR</a>
+                        <a class="mod off" id="excludeDT" onclick="exclude('DT')">DT</a>
+                        <a class="mod off" id="excludeFL" onclick="exclude('FL')">FL</a>
+                        <a class="mod off" id="excludeSO" onclick="exclude('SO')">SO</a>
+                    </div>
+                </span>
+            </section>
+
+            <section>
+                <h1>The list</h1>
+                <div id="tablew">
+                    <table id="plays">
+                        <thead>
+                            <th>#</th>
+                            <th class="sort" data-sort="pp">pp</th>
+                            <th class="sort" data-sort="player">Player</th>
+                            <th class="sort" data-sort="map">Map</th>
+                            <th class="sort" data-sort="mods">Mods</th>
+                            <th class="sort" data-sort="acc">Accuracy</th>
+                            <th class="sort" data-sort="rank">Rank</th>
+                            <th class="sort" data-sort="status">Status</th>
+                            <th class="sort" data-sort="date" title="YYYY/MM/DD">Date (UTC)*</th>
+                        </thead>
+                        <tbody class="list">
+                        </tbody>
+                    </table>
                 </div>
-                <div class="box">
-                    Exclude mod:<br>
-                    <a class="mod off" id="excludeEZ" onclick="exclude('EZ')">EZ</a>
-                    <a class="mod off" id="excludeHT" onclick="exclude('HT')">HT</a>
-                    <a class="mod off" id="excludeHD" onclick="exclude('HD')">HD</a>
-                    <a class="mod off" id="excludeHR" onclick="exclude('HR')">HR</a>
-                    <a class="mod off" id="excludeDT" onclick="exclude('DT')">DT</a>
-                    <a class="mod off" id="excludeFL" onclick="exclude('FL')">FL</a>
-                    <a class="mod off" id="excludeSO" onclick="exclude('SO')">SO</a>
-                </div>
-            </div>
+            </section>
         </div>
-            
-        <table id="plays">
-            <thead>
-                <th>#</th>
-                <th class="sort" data-sort="pp">pp</th>
-                <th class="sort" data-sort="player">Player</th>
-                <th class="sort" data-sort="map">Map</th>
-                <th class="sort" data-sort="mods">Mods</th>
-                <th class="sort" data-sort="acc">Accuracy</th>
-                <th class="sort" data-sort="rank">Rank</th>
-                <th class="sort" data-sort="status">Status</th>
-                <th class="sort" data-sort="date" title="YYYY/MM/DD">Date (UTC)*</th>
-            </thead>
-            <tbody class="list">
-            </tbody>
-        </table>
     </body>
 </html>

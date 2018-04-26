@@ -1,96 +1,230 @@
+* {
+    --header: #454545;
+    --bg: #333;
+    --font: #FFF;
+    --lightpink: #F573AD;
+    --border: #3D3D3D;
+    --darkpink: #d13e96;
+    /*-header: #e4e8ea;
+    --bg: #fff;
+    --font: #111;
+    --lightpink: #555;
+    --border: #d8d8d8;
+    --darkpink: #d13e96;*/
+}
+
 body {
     margin: 0 auto;
-    background-color: #454545;
+    background-color: var(--bg);
     font-family: Lato;
-    color: #FFF;
+    color: var(--font);
     font-size: 100%;
+    text-align: center;
+}
+
+#sections {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: auto;
+    flex-direction: column;
+    max-width: 1250px;
+    margin-bottom: 1em;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: flex-end;
+    
+    background-color: var(--header);
+    margin: 1em;
+    margin-bottom: 0em;
+    padding: 1.2em;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+section span {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 1em;
+}
+
+section span:last-child, section span div, section span a.button {
+    margin-bottom: 0;
+}
+
+section h1 {
+    font-family: Roboto;
+    letter-spacing: .5px;
+    font-weight: 300;
+    text-align: left;
+    padding-left: 0.5em;
+    margin-top: 0.2em;
 }
 
 header {
-    background-color: #333;
-    color: #F573AD;
-    font-size: 10.6vw;
-    padding: 0.08em 0.2em 0.2em 0.2em;
-    border-bottom: 1px solid #2A2A2A;
-    text-shadow: 1px 1px 1px #000;
+    background-color: var(--header);
+    color: var(--lightpink);
+    min-height: 58px;
+    padding: 0.3rem 1rem 0.3rem 0.8rem;
+    /*border-bottom: 1px solid #2A2A2A;
+    text-shadow: 1px 1px 1px #000;*/
+    font-family: Roboto;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.5);
+    font-weight: 300;
+    text-align: left;
+    font-size: 48px;
 }
 
 header span:nth-child(2) {
     float: right;
-    font-size: 5.3vw;
+    line-height: 58px;
+    font-size: 24px;
 }
 
-@media(min-width: 450px) {
-    header {
-        font-size: 48px;
-    }
-    
+@media(max-height: 400px) {    
     header span:nth-child(2) {
-        font-size: 24px;
+        display: none!important;
     }
 }
 
-a {
-    text-decoration: none;
-    color: #F573AD;
-}
-
-th.a {
-    color: inherit;
-}
-
-#top {
-    padding: 1em;
-    padding-bottom: 0;
-}
-
-.button, .mod {
+.button, .mod, .box {
     padding: 0.6em;
-    color: white;
-    background-color: #454545;
-    border: 1px solid #3D3D3D;
+    background-color: var(--header);
     display: inline-block;
     transition: color 0.1s;
     cursor: pointer;
     user-select: none;
-}
-
-.button {
-    margin-right: 0.7em;
-    margin-bottom: 1em;
+    color: inherit;
+    border: 1px solid var(--border);
 }
 
 .mod {
-    margin-right: 0.3em;
     margin-top: 0.6em;
     font-weight: bold;
 }
 
 .mod.on {
-    color: #d13e96;
+    color: var(--darkpink);
 }
 
 .mod:hover {
-    color: #F573AD;
+    color: var(--lightpink);
 }
 
-.mod:last-child {
-    margin-right: 0;
+@media(max-width: 780px) {
+    section span div {
+        width: 100%;
+        border: 0!important;
+        margin-bottom: 1em;
+    }
+    
+    section span div:last-child {
+        margin-bottom: 0;
+    }
 }
+
+@media(max-width: 600px) {
+    section span a.button {
+        width: 100%;
+        border: 0!important;
+        margin-bottom: 1em;
+    }
+    
+    section span a.button:last-child {
+        margin-bottom: 0;
+    }
+}
+
+@media(max-width: 980px) {
+    table thead {
+        display: none;
+    }
+    
+    table {
+        white-space: normal;
+        max-width: 520px;
+        padding-bottom: 0;
+    }
+    
+    tbody {
+        display: block;
+        width: 100%;
+    }
+    
+    table tr {
+        display: block;
+        margin-bottom: 1em;
+        padding: 1em;
+        box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.4);
+        width: 100%;
+        box-sizing: border-box;
+        text-align: left;
+        background-color: #555;
+        white-space: normal;
+    }
+    
+    table tr:last-child {
+        margin-bottom: 0;
+    }
+    
+    table td {
+        display: inline-block;
+        margin: 0;
+        text-align: left;
+    }
+    
+    table td.map {
+        display: block;
+    }
+    
+    table td.mods:before {
+        content: "+"
+    }
+    
+    table td.mods:empty {
+        display: none;
+    }
+    
+    table tbody tr td:first-child::before {
+        font-weight: bold;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: var(--lightpink);
+}
+
+th.a { color: inherit; }
 
 table {
-    display: block;
-    margin: 1em;
+    display: inline-block;
     margin-top: 0;
     text-align: center;
-    overflow: auto;
     white-space: nowrap;
     border-collapse: collapse;
     counter-reset: rowNumber;
 }
 
+table td.map, table td.player, table td.mods {
+    white-space: normal;
+}
+
+table td.mods {
+    min-width: 80px;
+}
+
 table th {
     user-select: none;
+}
+
+table th, table td {
+    box-sizing: border-box;
 }
 
 table th.sort {
@@ -99,11 +233,11 @@ table th.sort {
 }
     
 table th.asc, table th.desc {
-    color: #d13e96;
+    color: var(--darkpink);
 }
 
 table th.sort:hover, .button:hover {
-    color: #F573AD;
+    color: var(--lightpink);
 }
 
 table td, table th {
@@ -111,11 +245,11 @@ table td, table th {
 }
 
 table tr, table thead th {
-    border: 1px solid #3D3D3D;
+    border: 1px solid var(--border);
 }
 
 table thead th {
-    border: 1px solid #3D3D3D;
+    border: 1px solid var(--border);
 }
 
 table tbody tr {
@@ -123,22 +257,24 @@ table tbody tr {
 }
 
 table tbody tr td:first-child::before {
-    content: "#" counter(rowNumber);
-    padding-right: 0.6em;
+    content: "#"counter(rowNumber);
+}
+table tbody tr:nth-child(1) td:first-child::before {
+    color: gold;
 }
 
-table tbody tr td:nth-child(2)::after { 
+table tbody tr:nth-child(2) td:first-child::before {
+    color: lightgray;
+}
+
+table tbody tr:nth-child(3) td:first-child::before {
+    color: chocolate;
+}
+
+table tbody tr td.pp::after { 
     content: "pp"; 
 }
 
 table tbody tr td:nth-child(6)::after { 
     content: "%"; 
-}
-
-.box {
-    display: inline-block;
-    padding: 0.6em;
-    border: 1px solid #3D3D3D;
-    margin-bottom: 1em;
-    margin-right: 0.7em;
 }
