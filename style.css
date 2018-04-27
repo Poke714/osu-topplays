@@ -44,6 +44,7 @@ section {
     padding: 1.2em;
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.5);
     box-sizing: border-box;
+    word-wrap: break-word;
 }
 
 section span {
@@ -96,6 +97,7 @@ header span:nth-child(2) {
     header span {
         display: block;
         float: inherit!important;
+        word-wrap: break-word;
     }
 }
 
