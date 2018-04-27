@@ -148,6 +148,7 @@ var values = [
     {"pp": "722", "player": "MBmasher", "map": "Elmo and Cookie Monster ‑ Cookie‑Butter‑Choco‑Cookie [Cookie‑Triangle‑Spicy‑Cookie]", "mods": "HD DT HR FL", "status": "Ranked", "rank": "S", "acc": "99.07", "date": "2018/04/25"},
     {"pp": "710", "player": "Mathi", "map": "Ni-Sokkususu - Blade Dance [A r M i N's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.12", "date": "2018/04/25"},
     {"pp": "753", "player": "Dumii", "map": "TrySail - High Free Spirits -TV.Ver- [Skystar's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2018/04/25"}, 
+    {"pp": "701", "player": "Karthy", "map": "Chino(CV.Minase Inori) - Shinsaku no Shiawase wa Kochira! [Happy~!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.74", "date": "2018/04/27"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
