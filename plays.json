@@ -151,7 +151,9 @@ var values = [
     {"pp": "701", "player": "Karthy", "map": "Chino(CV.Minase Inori) - Shinsaku no Shiawase wa Kochira! [Happy~!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.74", "date": "2018/04/27"},
     {"pp": "718", "player": "Karthy", "map": "BABYMETAL - Road of Resistance [Crimson Rebellion]", "mods": "", "status": "Ranked", "rank": "S", "acc": "99.61", "date": "2018/05/01"}, 
     {"pp": "745", "player": "FlyingTuna", "map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "98.07", "date": "2018/05/01"}, 
-    {"pp": "700", "player": "Abyssal", "map": "xi / R3 Music Box - FREEDOM DiVE [ENDLESS EXEMPTiON]", "mods": "", "status": "Ranked", "rank": "S", "acc": "98.89", "date": "2018/05/01"}, 
+    {"pp": "700", "player": "Abyssal", "map": "xi / R3 Music Box - FREEDOM DiVE [ENDLESS EXEMPTiON]", "mods": "", "status": "Ranked", "rank": "S", "acc": "98.89", "date": "2018/05/01"},  
+    {"pp": "723", "player": "filsdelama", "map": "Cass2 - Gravity Falls Theme Song- 16 Bit Mix [Expert]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.59", "date": "2018/05/01"},
+    {"pp": "708", "player": "filsdelama", "map": "ONE OK ROCK - Bombs away [Sotarks' Detonation]", "mods": "HD DT HR", "status": "Ranked", "rank": "A", "acc": "98.34", "date": "2018/05/01"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "704", "player": "Cookiezi", "map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "715", "player": "Rafis", "map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
