@@ -25,8 +25,8 @@ function onload() {
 
 function refresh() {
     var options = {
-        valueNames: ["pp", "player", "map", "mods", "acc", "rank", "status", "date"],
-        item: "<tr><td></td><td class='pp'></td><td class='player'></td><td class='map'></td><td class='mods'><td class='acc'></td><td class='rank'></td><td class='status'></td><td class='date'></td></tr>"
+        valueNames: ["pp", "newpp", "player", "map", "mods", "acc", "rank", "status", "date"],
+        item: "<tr><td></td><td class='pp'></td><td class='newpp'></td><td class='player'></td><td class='map'></td><td class='mods'><td class='acc'></td><td class='rank'></td><td class='status'></td><td class='date'></td></tr>"
     };
 
     list = new List("plays", options, values);

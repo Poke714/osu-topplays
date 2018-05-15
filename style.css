@@ -149,7 +149,7 @@ header span:nth-child(2) {
     }
 }
 
-@media(max-width: 980px) {
+@media(max-width: 1050px) {
     table thead {
         display: none;
     }
@@ -202,6 +202,16 @@ header span:nth-child(2) {
     
     table tbody tr td:first-child::before {
         font-weight: bold;
+    }
+
+    table tbody tr td.newpp::after { 
+        content: "pp]"!important; 
+    }
+
+
+    table tbody tr td.newpp::before { 
+        content: "[New pp: "; 
+        white-space: pre;   
     }
 }
 
@@ -281,10 +291,10 @@ table tbody tr:nth-child(3) td:first-child::before {
     color: chocolate;
 }
 
-table tbody tr td.pp::after { 
+table tbody tr td.pp::after, table tbody tr td.newpp::after { 
     content: "pp"; 
 }
 
-table tbody tr td:nth-child(6)::after { 
+table tbody tr td.acc::after { 
     content: "%"; 
 }

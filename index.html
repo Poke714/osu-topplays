@@ -28,9 +28,16 @@
             <section>
                 <h1>A list of <b>all</b> 700+pp osu! plays, regardless of whether they're ranked or not</h1>
                 <p>This list contains all plays the are or would be worth 700 or more pp. It includes plays on non-ranked maps as well as legit plays on other servers.</p>
-                <span class="box">
+                <span style="display: inline">
                     Note: This list doesn't include maps that abuse the pp system without increasing difficulty such as <a href="https://osu.ppy.sh/s/594092">this</a> or <a href="https://osu.ppy.sh/b/847257">this</a> [INVISIBLE&nbsp;SPINNER] map.
                     <!--<a href="http://www.strawpoll.me/14260478">Should this list include multiple plays with the same player, map and mods? (eg. both of Rafis' Best FriendS plays with HD HR DT)</a>-->
+                </span>
+                
+                <span class="box">
+                    <b>Important: This list has not been fully updated to match recent changes to the pp system. It will be updated as soon as all scores are officially recalculated.<br>
+                        <br>
+                        <a href="https://github.com/ppy/osu-performance/pulls?q=is%3Apr+is%3Aclosed">[Changes]</a>
+                    </b>
                 </span>
                 
             </section>
@@ -63,6 +70,7 @@
                         <a class="mod off" id="excludeSO" onclick="exclude('SO')">SO</a>
                     </div>
                 </span>
+                
             </section>
 
             <section>
@@ -72,6 +80,7 @@
                         <thead>
                             <th>#</th>
                             <th class="sort" data-sort="pp">pp</th>
+                            <th class="sort" data-sort="newpp">New pp</th>
                             <th class="sort" data-sort="player">Player</th>
                             <th class="sort" data-sort="map">Map</th>
                             <th class="sort" data-sort="mods">Mods</th>
