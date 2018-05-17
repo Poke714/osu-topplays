@@ -70,7 +70,10 @@ function filter() {
         else if(hideOverwritten) {
             for(j = 0; j < list.items.length; j++) {
                 if(item.values().player == list.items[j].values().player && item.values().map == list.items[j].values().map && item.values().mods == list.items[j].values().mods) {
-                    if((Number(item.values().pp) < Number(list.items[j].values().pp) || (item.values().status != "Ranked" && list.items[j].values().status == "Ranked"))) return false;
+                    if((Number(item.values().pp) < Number(list.items[j].values().pp)
+							&& ((item.values().status == "Ranked" && list.items[j].values().status == "Ranked") || (item.values().status != "Ranked" && list.items[j].values().status != "Ranked")))
+						|| (item.values().status != "Ranked" && list.items[j].values().status == "Ranked")
+					) return false;
                 }
             }
         }
