@@ -68,6 +68,11 @@ section h1 {
     margin-top: 0.2em;
 }
 
+section p {
+	margin-bottom: 0.6em;
+	margin-top: 0.6em;
+}
+
 header {
     background-color: var(--header);
     color: var(--lightpink);
@@ -204,13 +209,13 @@ header span:nth-child(2) {
         font-weight: bold;
     }
 
-    table tbody tr td.newpp::after { 
+    table tbody tr td.oldpp::after { 
         content: "pp]"!important; 
     }
 
 
-    table tbody tr td.newpp::before { 
-        content: "[New pp: "; 
+    table tbody tr td.oldpp::before { 
+        content: "[Old pp: "; 
         white-space: pre;   
     }
 }
@@ -291,7 +296,7 @@ table tbody tr:nth-child(3) td:first-child::before {
     color: chocolate;
 }
 
-table tbody tr td.pp::after, table tbody tr td.newpp::after { 
+table tbody tr td.pp::after, table tbody tr td.oldpp::after { 
     content: "pp"; 
 }
 
