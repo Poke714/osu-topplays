@@ -300,6 +300,10 @@ table tbody tr td.pp::after, table tbody tr td.oldpp::after {
     content: "pp"; 
 }
 
+table tbody tr td.pp {
+	font-weight: bold;
+}
+
 table tbody tr td.acc::after { 
     content: "%"; 
 }
