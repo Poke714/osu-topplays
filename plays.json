@@ -179,6 +179,7 @@ var values = [
     {"pp": "814", "oldpp": "---", "player": "Mathi",			"map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HD HR", "status": "Unranked", "rank": "S", "acc": "99.19", "date": "2018/05/28"},
     {"pp": "795", "oldpp": "---", "player": "Abyssal",			"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.96", "date": "2018/05/30"},
     {"pp": "760", "oldpp": "---", "player": "Karthy",			"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.48", "date": "2018/05/31"},
+    {"pp": "713", "oldpp": "---", "player": "Alumetri",			"map": "Drop - Granat [Expert]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.54", "date": "2018/06/02"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
