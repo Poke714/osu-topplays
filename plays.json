@@ -76,7 +76,7 @@ var values = [
     {"pp": "731", "oldpp": "772", "player": "Totoki",			"map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.81", "date": "2017/12/06"},
     {"pp": "675", "oldpp": "717", "player": "Totoki",			"map": "kradness&Reol - Remote Control [Max Control!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "97.44", "date": "2017/12/06"},
     {"pp": "686", "oldpp": "709", "player": "Cookiezi",			"map": "nano - Bull's Eye [Aria]", "mods": "HD HR", "status": "Loved", "rank": "S", "acc": "99.66", "date": "2017/12/06"},
-    {"pp": "745", "oldpp": "704", "player": "Cookiezi",			"map": "xi - FREEDOM DiVE [いつもの# 2 <i style='color: gray'>(Last 475 Notes, CS5)</i>]", "mods": "HD HR", "status": "Unranked", "rank": "A", "acc": "99.23", "date": "2017/12/14"},
+    {"pp": "745", "oldpp": "704", "player": "Cookiezi",			"map": "xi - FREEDOM DiVE [いつもの# 2 <i style='color: gray'>(FOUR DIMENSIONS - Last 475 Notes, CS5)</i>]", "mods": "HD HR", "status": "Unranked", "rank": "A", "acc": "99.23", "date": "2017/12/14"},
     {"pp": "816", "oldpp": "809", "player": "Cookiezi",			"map": "UNDEAD CORPORATION - Embraced by the Flame (English ver.) [Disintegration]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "99.30", "date": "2017/12/17"},
     {"pp": "678", "oldpp": "715", "player": "Karthy",			"map": "Nogizaka46 - Yubi Bouenkyou ~Anime-ban~ [~A r M i N's Adventure~]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.79", "date": "2017/12/19"},
     {"pp": "690", "oldpp": "727", "player": "_RyuK",			"map": "Nogizaka46 - Yubi Bouenkyou ~Anime-ban~ [~A r M i N's Adventure~]", "mods": "HD DT", "status": "Ranked", "rank": "SS", "acc": "100.00", "date": "2017/12/21"},
@@ -180,6 +180,7 @@ var values = [
     {"pp": "795", "oldpp": "---", "player": "Abyssal",			"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.96", "date": "2018/05/30"},
     {"pp": "760", "oldpp": "---", "player": "Karthy",			"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.48", "date": "2018/05/31"},
     {"pp": "713", "oldpp": "---", "player": "Alumetri",			"map": "Drop - Granat [Expert]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.54", "date": "2018/06/02"},
+    {"pp": "805", "oldpp": "771", "player": "Cookiezi",			"map": "BABYMETAL - Road of Resistance [road of ppstance <i style='color: gray'>(Rebellion - Last 456 Notes / 529x)</i>]", "mods": "HD HR NF", "status": "Unranked", "rank": "S", "acc": "98.68", "date": "2016/06/04"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
