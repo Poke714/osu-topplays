@@ -131,7 +131,7 @@ var values = [
     {"pp": "708", "oldpp": "759", "player": "C O I N (Ripple)",	"map": "Aitsuki Nakuru - Monochrome Butterfly [Extra]", "mods": "HD DT", "status": "Unofficial", "rank": "A", "acc": "98.53", "date": "2018/03/22"},
     {"pp": "739", "oldpp": "798", "player": "Mathi",			"map": "Tapimiru - Hakkensha wa Watashi (Anime Size) [Kencho's Grimoire]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "96.38", "date": "2018/03/22"}, 
     {"pp": "672", "oldpp": "714", "player": "C O I N (Ripple)",	"map": "Agnete Kjolsrud - Get Jinxed [Master]", "mods": "HD DT", "status": "Unofficial", "rank": "S", "acc": "99.56", "date": "2018/03/22"},
-    {"pp": "807", "oldpp": "846", "player": "Totoki",			"map": "Various Artists - Songs Compilation [Marathon]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.36", "date": "2018/03/24"},
+    /*{"pp": "807", "oldpp": "846", "player": "Totoki",			"map": "Various Artists - Songs Compilation [Marathon]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.36", "date": "2018/03/24"}, POSSIBLY HACKED */
     {"pp": "666", "oldpp": "701", "player": "Donkey Kong",		"map": "Kano - Walk This Way! [Hello!]", "mods": "HD", "status": "Loved", "rank": "S", "acc": "99.77", "date": "2018/03/24"},
     {"pp": "646", "oldpp": "706", "player": "FlyingTuna",		"map": "Nogizaka46 - Yubi Bouenkyou ~Anime-ban~ [~A r M i N's Adventure~]", "mods": "HD DT HR", "status": "Ranked", "rank": "A", "acc": "95.89", "date": "2018/03/25"},
     {"pp": "782", "oldpp": "782", "player": "Mathi",			"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.78", "date": "2018/03/28"},
@@ -164,7 +164,7 @@ var values = [
     {"pp": "690", "oldpp": "726", "player": "FlyingTuna",		"map": "Icon For Hire - Make a Move (Speed Up Ver.) [A r M i N's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "97.25", "date": "2018/05/13"},
     {"pp": "790", "oldpp": "858", "player": "jot_bab",			"map": "Nogizaka46 - Yubi Bouenkyou ~Anime-ban~ [Baniel]", "mods": "HD DT", "status": "Unranked", "rank": "A", "acc": "97.68", "date": "2018/05/13"},
     {"pp": "710", "oldpp": "679", "player": "Cookiezi",			"map": "DragonForce - Defenders [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "98.64", "date": "2017/02/08"}, 
-    {"pp": "700", "oldpp": "671", "player": "WubWoofWolf",		"map": "DragonForce - Symphony of the Night [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.17", "date": "2017/09/01"}, 
+    {"pp": "700", "oldpp": "671", "player": "Black W0lf",		"map": "DragonForce - Symphony of the Night [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.17", "date": "2017/09/01"}, 
     {"pp": "692", "oldpp": "749", "player": "filsdelama",		"map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "97.74", "date": "2017/11/15"},
     {"pp": "707", "oldpp": "677", "player": "Yaong",    		"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.54", "date": "2018/03/23"},
     {"pp": "710", "oldpp": "---", "player": "Cookiezi",    		"map": "DragonForce - Seasons [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.26", "date": "2016/07/31"},
@@ -181,6 +181,7 @@ var values = [
     {"pp": "760", "oldpp": "---", "player": "Karthy",			"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.48", "date": "2018/05/31"},
     {"pp": "713", "oldpp": "---", "player": "Alumetri",			"map": "Drop - Granat [Expert]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.54", "date": "2018/06/02"},
     {"pp": "805", "oldpp": "771", "player": "Cookiezi",			"map": "BABYMETAL - Road of Resistance [road of ppstance <i style='color: gray'>(Rebellion - Last 456 Notes / 529x)</i>]", "mods": "HD HR NF", "status": "Unranked", "rank": "S", "acc": "98.68", "date": "2016/06/04"},
+    {"pp": "737", "oldpp": "---", "player": "Black W0lf",		"map": "DECO*27 - HIBANA feat. Hatsune Miku [Lock On]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.54", "date": "2018/06/05"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
