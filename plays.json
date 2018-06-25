@@ -189,6 +189,9 @@ var values = [
     {"pp": "827", "oldpp": "---", "player": "FGSky",			"map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD DT HR FL", "status": "Ranked", "rank": "B", "acc": "91.89", "date": "2018/06/19"},
     {"pp": "745", "oldpp": "---", "player": "Karthy",			"map": "xi - Ascension to Heaven [Final Moment]", "mods": "HD", "status": "Ranked", "rank": "S", "acc": "99.31", "date": "2018/06/19"},
     {"pp": "732", "oldpp": "---", "player": "idke",				"map": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs [Apollo Hoax Theory]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.28", "date": "2018/06/17"},
+	{"pp": "757", "oldpp": "---", "player": "reshi",			"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.37", "date": "2018/06/25"},
+    {"pp": "830", "oldpp": "---", "player": "Abyssal",			"map": "GYZE - HONESTY [DISHONEST]", "mods": "HR", "status": "Qualified", "rank": "S", "acc": "99.25", "date": "2018/06/25"},
+    {"pp": "836", "oldpp": "---", "player": "Mathi",			"map": "ke-ji feat. Nanahira - Ange du Blanc Pur [ABSOLUTION]", "mods": "HD HR", "status": "Loved", "rank": "S", "acc": "99.41", "date": "2018/06/24"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
