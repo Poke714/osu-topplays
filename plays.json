@@ -212,6 +212,8 @@ var values = [
     {"pp": "700", "oldpp": "---", "player": "firebat92",		"map": "KANA-BOON - Silhouette [Expert]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.23", "date": "2018/07/12"},
     {"pp": "776", "oldpp": "---", "player": "Mathi",    		"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.93", "date": "2018/07/13"},
     {"pp": "717", "oldpp": "---", "player": "Cookiezi",    		"map": "Shimotsuki Haruka - Youka to Yumeutsutsu [Awaken]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "99.42", "date": "2018/07/29"},
+    {"pp": "720", "oldpp": "---", "player": "Dustice",			"map": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs [Apollo Hoax Theory]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.50", "date": "2018/07/30"},
+    {"pp": "741", "oldpp": "---", "player": "uyghti",			"map": "Various Artists - Songs Compilation [Marathon]", "mods": "DT", "status": "Ranked", "rank": "A", "acc": "99.03", "date": "2018/07/31"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
