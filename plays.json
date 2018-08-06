@@ -214,6 +214,7 @@ var values = [
     {"pp": "717", "oldpp": "---", "player": "Cookiezi",    		"map": "Shimotsuki Haruka - Youka to Yumeutsutsu [Awaken]", "mods": "HD", "status": "Unranked", "rank": "S", "acc": "99.42", "date": "2018/07/29"},
     {"pp": "720", "oldpp": "---", "player": "Dustice",			"map": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs [Apollo Hoax Theory]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.50", "date": "2018/07/30"},
     {"pp": "741", "oldpp": "---", "player": "uyghti",			"map": "Various Artists - Songs Compilation [Marathon]", "mods": "DT", "status": "Ranked", "rank": "A", "acc": "99.03", "date": "2018/07/31"}, 
+    {"pp": "718", "oldpp": "---", "player": "Umbre",    		"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.85", "date": "2018/08/06"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
