@@ -216,6 +216,9 @@ var values = [
     {"pp": "741", "oldpp": "---", "player": "uyghti",			"map": "Various Artists - Songs Compilation [Marathon]", "mods": "DT", "status": "Ranked", "rank": "A", "acc": "99.03", "date": "2018/07/31"}, 
     {"pp": "718", "oldpp": "---", "player": "Umbre",    		"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.85", "date": "2018/08/06"},
     {"pp": "718", "oldpp": "---", "player": "firebat92",		"map": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs [Apollo Hoax Theory]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.28", "date": "2018/08/08"},
+    {"pp": "720", "oldpp": "---", "player": "firebat92",		"map": "Minazuki Airi with Atsushi - Daisuki, Evolution [Xexxar's Best... Girl?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.55", "date": "2018/08/10"},
+    {"pp": "746", "oldpp": "---", "player": "firebat92",		"map": "LiSA - Kimi ni Pierrot [Sotarks' Emotions]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.23", "date": "2018/08/10"},
+    {"pp": "748", "oldpp": "---", "player": "firebat92",		"map": "Various Artists - Songs Compilation [Marathon]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.68", "date": "2018/08/10"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
