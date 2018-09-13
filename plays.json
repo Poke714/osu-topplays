@@ -228,6 +228,7 @@ var values = [
     {"pp": "711", "oldpp": "---", "player": "BeasttrollMC",    	"map": "ke-ji feat. Nanahira - Ange du Blanc Pur [ABSOLUTION]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.44", "date": "2018/09/03"},
     {"pp": "707", "oldpp": "---", "player": "Micca",   			"map": "Aitsuki Nakuru - Monochrome Butterfly [Uniform]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "97.58", "date": "2018/09/05"},
     {"pp": "967", "oldpp": "---", "player": "Cookiezi",   		"map": "Asriel - Kegare Naki Yume [Epilogue]", "mods": "HD", "status": "Loved", "rank": "S", "acc": "99.46", "date": "2018/09/13"},
+    {"pp": "733", "oldpp": "---", "player": "Cookiezi",   		"map": "yuikonnu - Yume Chizu (Speed Up Ver.) [My Dream]", "mods": "HD HR", "status": "Loved", "rank": "S", "acc": "99.37", "date": "2018/09/13"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
