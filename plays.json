@@ -233,6 +233,7 @@ var values = [
     {"pp": "751", "oldpp": "---", "player": "ThePooN",   		"map": "GYZE - HONESTY [DISHONEST]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.82", "date": "2018/09/13"},
     {"pp": "793", "oldpp": "---", "player": "reshi",   			"map": "Asriel - Kegare Naki Yume [Epilogue]", "mods": "", "status": "Loved", "rank": "A", "acc": "98.24", "date": "2018/09/14"},
 	{"pp": "838", "oldpp": "---", "player": "C O I N (Ripple)", "map": "Asriel - Kegare Naki Yume [Epilogue]", "mods": "", "status": "Unofficial", "rank": "S", "acc": "98.43", "date": "2018/09/16"},
+    {"pp": "941", "oldpp": "---", "player": "Karthy",   		"map": "GYZE - HONESTY [DISHONEST]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.76", "date": "2018/09/17"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
