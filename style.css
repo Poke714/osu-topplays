@@ -143,6 +143,10 @@ header span:nth-child(2) {
 }
 
 @media(max-width: 600px) {
+	section {
+		margin: 0!important;
+		margin-top: 1em!important;
+	}
     section span a.button {
         width: 100%;
         border: 0!important;
@@ -152,6 +156,9 @@ header span:nth-child(2) {
     section span a.button:last-child {
         margin-bottom: 0;
     }
+	#sections {
+		margin-bottom: 0!important;
+	}
 }
 
 @media(max-width: 1050px) {
@@ -162,7 +169,7 @@ header span:nth-child(2) {
     table {
         white-space: normal;
         width: 100%;
-        max-width: 520px;
+        max-width: calc(600px - 2em);
         padding-bottom: 0;
     }
     
