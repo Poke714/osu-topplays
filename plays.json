@@ -182,6 +182,7 @@ var values = [
     {"pp": "713", "oldpp": "---", "player": "Alumetri",			"map": "Drop - Granat [Expert]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.54", "date": "2018/06/02"},
     {"pp": "805", "oldpp": "771", "player": "Cookiezi",			"map": "BABYMETAL - Road of Resistance [road of ppstance <i style='color: gray'>(Rebellion - Last 456 Notes / 529x)</i>]", "mods": "HD HR NF", "status": "Unranked", "rank": "S", "acc": "98.68", "date": "2016/06/04"},
     {"pp": "737", "oldpp": "---", "player": "Black W0lf",		"map": "DECO*27 - HIBANA feat. Hatsune Miku [Lock On]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.54", "date": "2018/06/05"},
+    {"pp": "763", "oldpp": "---", "player": "Abyssal",			"map": "BABYMETAL - Road of Resistance [ending <i style='color: gray'>(Crimson Rebellion - Last 475 Notes / 553x)</i>]", "mods": "HD HR", "status": "Unranked", "rank": "S", "acc": "99.02", "date": "2018/06/01"},
     {"pp": "706", "oldpp": "---", "player": "Karthy",			"map": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs [Apollo Hoax Theory]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.60", "date": "2018/06/12"},
     {"pp": "748", "oldpp": "---", "player": "MBmasher",			"map": "Elmo and Cookie Monster - Cookie-Butter-Choco-Cookie [Cookie-Triangle-Spicy-Cookie [1.15x Rate]]", "mods": "HD DT HR FL", "status": "Unranked", "rank": "A", "acc": "96.06", "date": "2018/06/15"},
     {"pp": "811", "oldpp": "---", "player": "FGSky",			"map": "ClariS - SHIORI -TV size mix- [Apex]", "mods": "HD DT HR FL", "status": "Unsubmitted", "rank": "A", "acc": "91.72", "date": "2018/06/20"},
@@ -231,6 +232,7 @@ var values = [
     {"pp": "733", "oldpp": "---", "player": "Cookiezi",   		"map": "yuikonnu - Yume Chizu (Speed Up Ver.) [My Dream]", "mods": "HD HR", "status": "Loved", "rank": "S", "acc": "99.37", "date": "2018/09/13"},
     {"pp": "751", "oldpp": "---", "player": "ThePooN",   		"map": "GYZE - HONESTY [DISHONEST]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.82", "date": "2018/09/13"},
     {"pp": "793", "oldpp": "---", "player": "reshi",   			"map": "Asriel - Kegare Naki Yume [Epilogue]", "mods": "", "status": "Loved", "rank": "A", "acc": "98.24", "date": "2018/09/14"},
+	{"pp": "838", "oldpp": "---", "player": "C O I N (Ripple)", "map": "Asriel - Kegare Naki Yume [Epilogue]", "mods": "", "status": "Unofficial", "rank": "S", "acc": "98.43", "date": "2018/09/16"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
