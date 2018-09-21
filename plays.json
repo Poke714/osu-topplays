@@ -239,6 +239,8 @@ var values = [
     {"pp": "748", "oldpp": "---", "player": "Mathi",       		"map": "KANA-BOOM - Baton Road [-MONSTRATA'S EXTRA-]]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "96.91", "date": "2018/09/19"},
     {"pp": "740", "oldpp": "---", "player": "Mathi",       		"map": "Will Stetson - Despacito ft. R3 Music Box [Slowly]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.25", "date": "2018/09/19"},
     {"pp": "730", "oldpp": "---", "player": "reshi",			"map": "BABYMETAL - Road of Resistance [Crimson Rebellion]", "mods": "", "status": "Ranked", "rank": "S", "acc": "99.49", "date": "2018/09/19"}, 
+    {"pp": "708", "oldpp": "---", "player": "Freddie Benson",	"map": "HO-KAGO TEA TIME - Kira Kira Days [Shiawase!!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.53", "date": "2018/09/20"},
+    {"pp": "731", "oldpp": "---", "player": "idke", 			"map": "BABYMETAL - Road of Resistance [Rebellion]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.29", "date": "2018/09/21"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
