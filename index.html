@@ -19,9 +19,11 @@
     </head>
     <body onload="onload();">
         <header>
-            <span>osu!top-plays</span>
-            <span><a href="http://osu.ppy.sh/u/Poke714">Poke714</a></span>
-            <div style="clear: both"></div>
+			<div id="headercontent">
+				<span>osu!top-plays</span>
+				<span><a href="http://osu.ppy.sh/u/Poke714">Poke714</a></span>
+				<div style="clear: both"></div>
+			</div>
         </header>
         
         <div id="sections">
@@ -48,8 +50,8 @@
                 </span>
 
                 <span>
-                    <div class="box">
-                        Include&nbsp;mod:<br>
+                    <div>
+                        <p>Include&nbsp;mod:</p>
                         <a class="mod off" id="includeEZ" onclick="include('EZ')">EZ</a>
                         <a class="mod off" id="includeHT" onclick="include('HT')">HT</a>
                         <a class="mod off" id="includeHD" onclick="include('HD')">HD</a>
@@ -58,8 +60,8 @@
                         <a class="mod off" id="includeFL" onclick="include('FL')">FL</a>
                         <a class="mod off" id="includeSO" onclick="include('SO')">SO</a>
                     </div>
-                    <div class="box">
-                        Exclude&nbsp;mod:<br>
+                    <div>
+                        <p>Exclude&nbsp;mod:</p>
                         <a class="mod off" id="excludeEZ" onclick="exclude('EZ')">EZ</a>
                         <a class="mod off" id="excludeHT" onclick="exclude('HT')">HT</a>
                         <a class="mod off" id="excludeHD" onclick="exclude('HD')">HD</a>
@@ -72,7 +74,7 @@
                 
             </section>
 
-            <section>
+            <section id="listsection">
                 <h1>The list</h1>
                 <div id="tablew">
                     <table id="plays">
