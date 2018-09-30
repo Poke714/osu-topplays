@@ -244,6 +244,8 @@ var values = [
     {"pp": "749", "oldpp": "---", "player": "Mathi",       		"map": "Nogizaka46 - Yubi Bouenkyou ~Anime-ban~ [~Extra~]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.68", "date": "2018/09/25"},
     {"pp": "706", "oldpp": "---", "player": "Mathi",       		"map": "RADWIMPS - Yume Tourou [Extra: Mitsuha]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.60", "date": "2018/09/25"},
     {"pp": "720", "oldpp": "---", "player": "waywern2012",     	"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.64", "date": "2018/09/25"},
+    {"pp": "766", "oldpp": "---", "player": "Ampharos",        	"map": "Will Stetson - Harumachi Clover (Swing Arrangement) [Dictate Edit]", "mods": "HD DT FL", "status": "Ranked", "rank": "S", "acc": "94.83", "date": "2018/09/28"},
+    {"pp": "862", "oldpp": "---", "player": "idke",         	"map": "BABYMETAL - Road of Resistance [Rebellion]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.93", "date": "2018/09/29"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
