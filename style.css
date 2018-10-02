@@ -211,10 +211,18 @@ header span:nth-child(2) {
         margin: 0;
         text-align: left;
     }
-    
+	
     table td.map {
         display: block;
+		font-style: italic;
     }
+	
+	table td.date {
+		display: block;
+		font-size: 80%;
+        padding: 0.5em 1em 0.5em 1em;
+		color: #AAA;
+	}
     
     table td.mods:before {
         content: "+"
