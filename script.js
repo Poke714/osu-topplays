@@ -83,7 +83,15 @@ function filter() {
     document.getElementById("hideUnranked").innerHTML = hideUnranked ? "Unranked plays: Hidden" : "Unranked plays: Visible";
     document.getElementById("hideOverwritten").innerHTML = hideOverwritten ? "Overwritten plays*: Hidden" : "Overwritten plays*: Visible";
     document.getElementById("oldpp").innerHTML = hideOldpp ? "Old 700pp scores: Hidden" : "Old 700pp scores: Visible";
-
+	
+	document.getElementById("oldpph").style.display = hideOldpp ? "none" : window.innerWidth <= 1050 ? "inline-flex" : "table-cell";
+	
+	var oldppCells = document.getElementsByClassName("oldpp");
+	console.log(oldppCells.length)
+	for(i = 0; i < oldppCells.length; i++) {
+		oldppCells[i].style.display = hideOldpp ? "none" : window.innerWidth <= 1050 ? "inline-flex" : "table-cell";
+	}
+	
     list.sort(ls, { order: o });
 }
 
