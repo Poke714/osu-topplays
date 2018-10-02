@@ -84,11 +84,13 @@ function filter() {
     document.getElementById("hideOverwritten").innerHTML = hideOverwritten ? "Overwritten plays*: Hidden" : "Overwritten plays*: Visible";
     document.getElementById("oldpp").innerHTML = hideOldpp ? "Old 700pp scores: Hidden" : "Old 700pp scores: Visible";
 	
-	document.getElementById("oldpph").style.display = hideOldpp ? "none" : window.innerWidth <= 1050 ? "inline-flex" : "table-cell";
+	if(hideOldpp) document.getElementById("oldpph").classList.add("hidden")
+	else document.getElementById("oldpph").classList.remove("hidden")
 	
 	var oldppCells = document.getElementsByClassName("oldpp");
 	for(i = 0; i < oldppCells.length; i++) {
-		oldppCells[i].style.display = hideOldpp ? "none" : window.innerWidth <= 1050 ? "inline-flex" : "table-cell";
+		if(hideOldpp) oldppCells[i].classList.add("hidden")
+		else oldppCells[i].classList.remove("hidden")
 	}
 	
     list.sort(ls, { order: o });

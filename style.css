@@ -334,3 +334,7 @@ table tbody tr td.pp {
 table tbody tr td.acc::after { 
     content: "%"; 
 }
+
+#oldpph.hidden, table td.oldpp.hidden {
+	display: none;
+}
