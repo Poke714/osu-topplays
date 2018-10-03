@@ -249,6 +249,10 @@ var values = [
     {"pp": "844", "oldpp": "---", "player": "idke",         	"map": "BABYMETAL - Road of Resistance [Rebellion]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.13", "date": "2018/09/30"},
     {"pp": "732", "oldpp": "---", "player": "idke",         	"map": "BABYMETAL - Road of Resistance [Rebellion]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.29", "date": "2018/09/21"}, // 7miss, 98.29%, 2200x
     {"pp": "744", "oldpp": "---", "player": "Abyssal",			"map": "xi / R3 Music Box - FREEDOM DiVE [ENDLESS EXEMPTiON]", "mods": "", "status": "Ranked", "rank": "S", "acc": "99.66", "date": "2018/09/30"},
+    {"pp": "712", "oldpp": "---", "player": "idke",		    	"map": "DragonForce - Soldiers of the Wasteland [Legend] ", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.72", "date": "2018/10/03"},
+    {"pp": "749", "oldpp": "---", "player": "idke",		    	"map": "DragonForce - Soldiers of the Wasteland [Legend] ", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.62", "date": "2018/10/03"},
+    {"pp": "773", "oldpp": "---", "player": "Mathi",	    	"map": "LiSA - Kimi no Pierrot [Sotarks' Emotions] ", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.67", "date": "2018/10/03"},
+    {"pp": "707", "oldpp": "---", "player": "Karthy",	    	"map": "DragonForce - Symphony of the Night [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.28", "date": "2018/10/03"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
