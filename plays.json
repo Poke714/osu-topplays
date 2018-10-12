@@ -236,7 +236,7 @@ var values = [
     {"pp": "941", "oldpp": "---", "player": "Karthy",   		"map": "GYZE - HONESTY [DISHONEST]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.76", "date": "2018/09/17"},
     {"pp": "703", "oldpp": "---", "player": "Mathi",   			"map": "NICO Touches the Walls - Niwaka Ame ni mo Makezu [Nine Tails]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.71", "date": "2018/09/18"},
     {"pp": "768", "oldpp": "---", "player": "Mathi",       		"map": "Aitsuki Nakuru - Monochrome Butterfly [Uniform]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.74", "date": "2018/09/18"},
-    {"pp": "748", "oldpp": "---", "player": "Mathi",       		"map": "KANA-BOOM - Baton Road [-MONSTRATA'S EXTRA-]]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "96.91", "date": "2018/09/19"},
+    {"pp": "748", "oldpp": "---", "player": "Mathi",       		"map": "KANA-BOOM - Baton Road [-MONSTRATA'S EXTRA-]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "96.91", "date": "2018/09/19"},
     {"pp": "740", "oldpp": "---", "player": "Mathi",       		"map": "Will Stetson - Despacito ft. R3 Music Box [Slowly]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.25", "date": "2018/09/19"},
     {"pp": "730", "oldpp": "---", "player": "reshi",			"map": "BABYMETAL - Road of Resistance [Crimson Rebellion]", "mods": "", "status": "Ranked", "rank": "S", "acc": "99.49", "date": "2018/09/19"}, 
     {"pp": "708", "oldpp": "---", "player": "Freddie Benson",	"map": "HO-KAGO TEA TIME - Kira Kira Days [Shiawase!!]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.53", "date": "2018/09/20"},
