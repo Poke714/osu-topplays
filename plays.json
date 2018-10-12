@@ -254,6 +254,9 @@ var values = [
     {"pp": "773", "oldpp": "---", "player": "Mathi",	    	"map": "LiSA - Kimi no Pierrot [Sotarks' Emotions] ", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.67", "date": "2018/10/03"},
     {"pp": "707", "oldpp": "---", "player": "Karthy",	    	"map": "DragonForce - Symphony of the Night [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.28", "date": "2018/10/03"}, 
     {"pp": "702", "oldpp": "---", "player": "Informous",	    "map": "Dendei - gabe power [Brain Dog?]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "96.75", "date": "2018/10/04"}, 
+    {"pp": "735", "oldpp": "---", "player": "Alumetri",	        "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Qualified", "rank": "A", "acc": "99.60", "date": "2018/10/11"}, 
+    {"pp": "752", "oldpp": "---", "player": "idke",             "map": "Imperial Circus Dead Decadence - Uta [Himei]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.05", "date": "2018/10/12"}, 
+    {"pp": "865", "oldpp": "---", "player": "idke",             "map": "Imperial Circus Dead Decadence - Uta [Himei]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.67", "date": "2018/10/12"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
