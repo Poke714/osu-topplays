@@ -273,6 +273,7 @@ var values = [
     {"pp": "723", "oldpp": "---", "player": "Alumetri",         "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.83", "date": "2018/10/18"}, 
     {"pp": "752", "oldpp": "---", "player": "Karthy",           "map": "KANA-BOON - Silhouette [Expert]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.46", "date": "2018/10/18"}, 
     {"pp": "752", "oldpp": "---", "player": "Monko2k",          "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.37", "date": "2018/10/19"}, 
+    {"pp": "736", "oldpp": "---", "player": "Dustice",          "map": "GYZE - HONESTY [DISHONEST]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.16", "date": "2018/07/24"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
