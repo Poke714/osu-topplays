@@ -276,6 +276,10 @@ var values = [
     {"pp": "736", "oldpp": "---", "player": "Dustice",          "map": "GYZE - HONESTY [DISHONEST]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.16", "date": "2018/07/24"}, 
     {"pp": "754", "oldpp": "---", "player": "_RyuK",            "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Unranked", "rank": "S", "acc": "99.46", "date": "2018/06/15"}, 
     {"pp": "765", "oldpp": "---", "player": "Wakson",           "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Unranked", "rank": "S", "acc": "99.82", "date": "2018/05/23"}, 
+    {"pp": "787", "oldpp": "---", "player": "Musty",            "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HD HR", "status": "Unranked", "rank": "S", "acc": "98.72", "date": "2018/10/21"}, 
+    {"pp": "737", "oldpp": "---", "player": "SadnessWillSear",  "map": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs [Apollo Hoax Theory]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.36", "date": "2018/10/22"},
+    {"pp": "732", "oldpp": "---", "player": "idke", 			"map": "DragonForce - Defenders [Legend]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.67", "date": "2018/10/21"}, 
+    {"pp": "742", "oldpp": "---", "player": "idke", 			"map": "xi - Blue Zenith [FOUR DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.53", "date": "2018/10/21"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
