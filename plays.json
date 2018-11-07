@@ -291,6 +291,8 @@ var values = [
     {"pp": "734", "oldpp": "---", "player": "Viveliam",         "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.92", "date": "2018/11/03"}, 
     {"pp": "710", "oldpp": "---", "player": "1E308",            "map": "BABYMETAL - Road of Resistance [Crimson Rebellion]", "mods": "HD", "status": "Ranked", "rank": "A", "acc": "98.96", "date": "2018/11/05"}, 
     {"pp": "728", "oldpp": "---", "player": "filsdelama",       "map": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs [Apollo Hoax Theory]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.20", "date": "2018/11/06"},
+    {"pp": "733", "oldpp": "---", "player": "Bloo",             "map": "GYZE - HONESTY [DISHONEST]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.40", "date": "2018/11/07"}, 
+    {"pp": "709", "oldpp": "---", "player": "Risiing",      	"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.89", "date": "2018/11/07"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
