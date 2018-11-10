@@ -295,6 +295,10 @@ var values = [
     {"pp": "709", "oldpp": "---", "player": "Risiing",      	"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.89", "date": "2018/11/07"},
     {"pp": "701", "oldpp": "---", "player": "filsdelama",      	"map": "Will Stetson - Harumachi Clover (Swing Arrangement) [Dictate Edit] [Oh no!]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "99.43", "date": "2018/11/07"},
     {"pp": "724", "oldpp": "---", "player": "filsdelama",		"map": "Minazuki Airi with Atsushi - Daisuki, Evolution [Xexxar's Best... Girl?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.66", "date": "2018/11/08"},
+    {"pp": "719", "oldpp": "---", "player": "Cookiezi",			"map": "penoreri - Preserved Valkyria [Arles]", "mods": "HD HR", "status": "Loved", "rank": "A", "acc": "97.92", "date": "2018/11/10"}, 
+    {"pp": "725", "oldpp": "---", "player": "idke",     		"map": "Minazuki Airi with Atsushi - Daisuki, Evolution [Xexxar's Best... Girl?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.66", "date": "2018/11/10"},
+    {"pp": "703", "oldpp": "---", "player": "BeasttrollMC",     "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "97.94", "date": "2018/11/10"}, 
+    {"pp": "732", "oldpp": "---", "player": "Varvalian",        "map": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs [Apollo Hoax Theory]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.28", "date": "2018/11/10"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
