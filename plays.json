@@ -299,6 +299,13 @@ var values = [
     {"pp": "725", "oldpp": "---", "player": "idke",     		"map": "Minazuki Airi with Atsushi - Daisuki, Evolution [Xexxar's Best... Girl?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.66", "date": "2018/11/10"},
     {"pp": "703", "oldpp": "---", "player": "BeasttrollMC",     "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "97.94", "date": "2018/11/10"}, 
     {"pp": "732", "oldpp": "---", "player": "Varvalian",        "map": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs [Apollo Hoax Theory]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.28", "date": "2018/11/10"},
+    {"pp": "715", "oldpp": "---", "player": "uyghti",    		"map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.30", "date": "2018/11/11"}, 
+    {"pp": "730", "oldpp": "---", "player": "Freddie Benson",   "map": "YUI - Rolling star (TV Size) [Seni's Expert]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "95.80", "date": "2018/11/11"}, 
+    {"pp": "708", "oldpp": "---", "player": "Freddie Benson",   "map": "Amatsuki - DORAEMON [Cuddle]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "96.24", "date": "2018/11/11"}, 
+    {"pp": "701", "oldpp": "---", "player": "Varvalian",      	"map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.63", "date": "2018/11/12"},
+    {"pp": "824", "oldpp": "---", "player": "azr8",				"map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.53", "date": "2018/11/13"},
+    {"pp": "718", "oldpp": "---", "player": "Geryy",    		"map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.47", "date": "2018/11/13"},
+    {"pp": "705", "oldpp": "---", "player": "MrBooM",    		"map": "DragonForce - Defenders [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "98.63", "date": "2018/11/12"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
