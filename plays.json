@@ -306,6 +306,8 @@ var values = [
     {"pp": "824", "oldpp": "---", "player": "azr8",				"map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.53", "date": "2018/11/13"},
     {"pp": "718", "oldpp": "---", "player": "Geryy",    		"map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.47", "date": "2018/11/13"},
     {"pp": "705", "oldpp": "---", "player": "MrBooM",    		"map": "DragonForce - Defenders [Legend]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "98.63", "date": "2018/11/12"}, 
+    {"pp": "830", "oldpp": "---", "player": "fieryrage",    	"map": "Will Stetson - Harumachi Clover (Swing Arrangement) [Dictate Edit]", "mods": "HR DT FL", "status": "Ranked", "rank": "S", "acc": "98.28", "date": "2018/11/15"}, 
+    {"pp": "726", "oldpp": "---", "player": "idke",		    	"map": "Demetori - Koyoi wa Hyouitsu na Egoist ~ Ego, Schizoid, Beat. [Yorigami]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.03", "date": "2018/11/15"}, 
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
