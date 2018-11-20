@@ -312,6 +312,7 @@ var values = [
     {"pp": "784", "oldpp": "---", "player": "idke",		    	"map": "Demetori - Koyoi wa Hyouitsu na Egoist ~ Ego, Schizoid, Beat. [Yorigami]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.08", "date": "2018/11/17"}, 
     {"pp": "820", "oldpp": "---", "player": "idke",		    	"map": "xi - Halcyon -Long Version- [ONE DIMENSION]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.14", "date": "2018/11/17"}, 
     {"pp": "785", "oldpp": "---", "player": "uyghti",      	    "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.82", "date": "2018/11/15"},
+    {"pp": "716", "oldpp": "---", "player": "Wakson",     		"map": "Minazuki Airi with Atsushi - Daisuki, Evolution [Xexxar's Best... Girl?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.44", "date": "2018/11/19"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
