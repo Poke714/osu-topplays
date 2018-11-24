@@ -287,7 +287,7 @@ var values = [
     {"pp": "714", "oldpp": "---", "player": "wuhua",            "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "97.47", "date": "2018/10/26"}, 
     {"pp": "705", "oldpp": "---", "player": "filsdelama",       "map": "Nogizaka46 - Yubi Bouenkyou ~Anime-ban~ [~Extra~]", "mods": "HD DT HR", "status": "Ranked", "rank": "A", "acc": "99.06", "date": "2018/10/30"}, 
     {"pp": "760", "oldpp": "---", "player": "Dustice",          "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.55", "date": "2018/11/02"}, 
-    {"pp": "986", "oldpp": "---", "player": "idke",             "map": "DragonForce - Cry Thunder [Unholy Darkness]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.68", "date": "2018/11/03"}, 
+    {"pp": "986", "oldpp": "---", "player": "idke",             "map": "DragonForce - Cry Thunder [Unholy Darkness]", "mods": "HR", "status": "Qualified", "rank": "S", "acc": "99.68", "date": "2018/11/03"}, 
     {"pp": "734", "oldpp": "---", "player": "Viveliam",         "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.92", "date": "2018/11/03"}, 
     {"pp": "710", "oldpp": "---", "player": "1E308",            "map": "BABYMETAL - Road of Resistance [Crimson Rebellion]", "mods": "HD", "status": "Ranked", "rank": "A", "acc": "98.96", "date": "2018/11/05"}, 
     {"pp": "728", "oldpp": "---", "player": "filsdelama",       "map": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs [Apollo Hoax Theory]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.20", "date": "2018/11/06"},
