@@ -318,6 +318,8 @@ var values = [
     {"pp": "784", "oldpp": "---", "player": "FGSky",			"map": "Will Stetson - Harumachi Clover (Swing Arrangement) [Dictate Edit] [Oh no!]", "mods": "HD DT HR FL", "status": "Ranked", "rank": "A", "acc": "93.10", "date": "2018/11/20"},
     {"pp": "703", "oldpp": "---", "player": "Wakson",			"map": "DragonForce - Cry Thunder [Unholy Darkness]", "mods": "", "status": "Ranked", "rank": "S", "acc": "99.77", "date": "2018/11/18"},
     {"pp": "739", "oldpp": "---", "player": "badeu",			"map": "Various Artists - Songs Compilation [Marathon]", "mods": "DT", "status": "Ranked", "rank": "S", "acc": "97.86", "date": "2018/11/22"},
+    {"pp": "981", "oldpp": "---", "player": "idke",				"map": "DragonForce - Cry Thunder [Unholy Darkness]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.59", "date": "2018/11/24"},
+    {"pp": "746", "oldpp": "---", "player": "uyghti",			"map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "DT", "status": "Ranked", "rank": "A", "acc": "99.36", "date": "2018/11/24"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
