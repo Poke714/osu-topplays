@@ -324,6 +324,9 @@ var values = [
     {"pp": "763", "oldpp": "---", "player": "FlyingTuna",		"map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.24", "date": "2018/11/25"},
     {"pp": "723", "oldpp": "---", "player": "FlyingTuna",		"map": "Aitsuki Nakuru - Monochrome Butterfly [Uniform]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.10", "date": "2018/11/25"},
     {"pp": "747", "oldpp": "---", "player": "filsdelama",		"map": "GYZE - HONESTY [DISHONEST]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.18", "date": "2018/11/25"},
+    {"pp": "732", "oldpp": "---", "player": "Umbre",			"map": "Ryu-5150 - Louder than Steel [e <i style='color: gray'>(ok this is epic - Last 402 Notes)</i>]", "mods": "", "status": "Unranked", "rank": "S", "acc": "99.50", "date": "2018/11/24"},
+    {"pp": "767", "oldpp": "---", "player": "Freddie Benson",	"map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.36", "date": "2018/11/27"},
+    {"pp": "799", "oldpp": "---", "player": "_RyuK",			"map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.06", "date": "2018/11/27"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
