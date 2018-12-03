@@ -328,6 +328,8 @@ var values = [
     {"pp": "767", "oldpp": "---", "player": "Freddie Benson",	"map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.36", "date": "2018/11/27"},
     {"pp": "799", "oldpp": "---", "player": "_RyuK",			"map": "Ni-Sokkususu - Blade Dance [Special Kneesocks]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.06", "date": "2018/11/27"},
     {"pp": "735", "oldpp": "---", "player": "azr8",		    	"map": "Sagara Kokoro - Hoshizora no Ima [Shooting Star]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "98.66", "date": "2018/11/29"},
+    {"pp": "701", "oldpp": "---", "player": "Alumetri",		    "map": "40mP feat. yuikonnu - Ame to Asphalt [Rain]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.89", "date": "2018/12/02"},
+    {"pp": "750", "oldpp": "---", "player": "Hasawa Kraenes",   "map": "Dragonforce - Galactic Astro Domination [Legend]", "mods": "HR", "status": "Loved", "rank": "A", "acc": "94.79", "date": "2018/12/02"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
