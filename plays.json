@@ -331,6 +331,8 @@ var values = [
     {"pp": "701", "oldpp": "---", "player": "Alumetri",		    "map": "40mP feat. yuikonnu - Ame to Asphalt [Rain]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.89", "date": "2018/12/02"},
     {"pp": "750", "oldpp": "---", "player": "Hasawa Kraenes",   "map": "Dragonforce - Galactic Astro Domination [Legend]", "mods": "HR", "status": "Loved", "rank": "A", "acc": "94.79", "date": "2018/12/02"},
     {"pp": "709", "oldpp": "---", "player": "Alumetri",		    "map": "40mP feat. yuikonnu - Ame to Asphalt [Rain]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "98.35", "date": "2018/12/02"},
+    {"pp": "778", "oldpp": "---", "player": "filsdelama",	    "map": "Hazuki - Legend of Millenium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "99.91", "date": "2018/12/04"},
+    {"pp": "791", "oldpp": "---", "player": "Umbre",	        "map": "VINXIS - Sidetracked Dayspacito [Moonl1ght DIMENSION]", "mods": "HD HR", "status": "Unranked", "rank": "S", "acc": "99.90", "date": "2018/12/04"}, // https://www.reddit.com/r/osugame/comments/a33t8g/umbre_vinxis_sidetracked_dayspacito_moonl1ght/
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "Cookiezi",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "Rafis",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
