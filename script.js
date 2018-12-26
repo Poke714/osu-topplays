@@ -31,7 +31,7 @@ function refresh() {
         item: "<tr><td></td><td class='pp'></td><td class='oldpp'></td><td class='player'></td><td class='map'></td><td class='mods'><td class='acc'></td><td class='rank'></td><td class='status'></td><td class='date'></td></tr>"
     };
 
-    list = new List("plays", options, values);
+    list = new List("plays", options, plays);
     
     list.sort("pp", { order: "desc" });
     
