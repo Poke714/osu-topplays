@@ -379,5 +379,6 @@ var plays = [
 
 // I don't like this.
 for (var i = 0; i < plays.length; i++) {
-    plays[i].player = names[plays[i].player]
+    if(plays[i].player.endsWith(" (Gatari)") || plays[i].player.endsWith(" (Ripple)"))  continue;
+    plays[i].player = names[plays[i].player];
 }
