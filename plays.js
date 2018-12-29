@@ -360,6 +360,9 @@ var plays = [
     {"pp": "756", "oldpp": "---", "player": "9224078", "map": "Brian The Sun - Lonely Go! (TV Size) [Fiery's Extreme]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "96.83", "date": "2018/12/26"}, // https://redd.it/a9q5yj
     {"pp": "702", "oldpp": "---", "player": "9224078", "map": "Icon For Hire - Make a Move (Speed Up Ver.) [Endless Fear]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "95.87", "date": "2018/12/26"}, // https://redd.it/a9qvyv
     {"pp": "820", "oldpp": "---", "player": "3533958", "map": "Brian The Sun - Lonely Go! (TV Size) [Fiery's Extreme]", "mods": "HD DT HR", "status": "Ranked", "rank": "B", "acc": "91.81", "date": "2018/12/25"}, // https://redd.it/a9iqz6
+    {"pp": "740", "oldpp": "---", "player": "9224078", "map": "LiSA - Kimi ni Pierrot [Sotarks' Emotions]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.12", "date": "2018/12/18"},
+    {"pp": "797", "oldpp": "---", "player": "9224078", "map": "Okazaki Taiiku - Kimi no Bouken (TV Size) [SquareTude's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "97.66", "date": "2018/12/27"}, // https://redd.it/aa0z1s
+    {"pp": "801", "oldpp": "---", "player": "5339515", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.49", "date": "2018/12/27"}, // https://redd.it/aa4nnq
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "124493",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "2558286",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
