@@ -363,6 +363,8 @@ var plays = [
     {"pp": "740", "oldpp": "---", "player": "9224078", "map": "LiSA - Kimi ni Pierrot [Sotarks' Emotions]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.12", "date": "2018/12/18"},
     {"pp": "797", "oldpp": "---", "player": "9224078", "map": "Okazaki Taiiku - Kimi no Bouken (TV Size) [SquareTude's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "97.66", "date": "2018/12/27"}, // https://redd.it/aa0z1s
     {"pp": "801", "oldpp": "---", "player": "5339515", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.49", "date": "2018/12/27"}, // https://redd.it/aa4nnq
+    {"pp": "909", "oldpp": "---", "player": "2766034", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.48", "date": "2018/12/30"}, // https://redd.it/aarhjh
+    {"pp": "792", "oldpp": "---", "player": "1837989", "map": "Hazuki - Legend of Millennium [Xexxar's Best... Succubus?!]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.15", "date": "2018/12/29"}, // https://redd.it/aamt8k
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "124493",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "2558286",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
