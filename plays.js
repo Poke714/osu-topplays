@@ -365,6 +365,10 @@ var plays = [
     {"pp": "801", "oldpp": "---", "player": "5339515", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.49", "date": "2018/12/27"}, // https://redd.it/aa4nnq
     {"pp": "909", "oldpp": "---", "player": "2766034", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.48", "date": "2018/12/30"}, // https://redd.it/aarhjh
     {"pp": "792", "oldpp": "---", "player": "1837989", "map": "Hazuki - Legend of Millennium [Xexxar's Best... Succubus?!]", "mods": "HD HR", "status": "Ranked", "rank": "A", "acc": "99.15", "date": "2018/12/29"}, // https://redd.it/aamt8k
+    {"pp": "778", "oldpp": "---", "player": "2003326", "map": "Okazaki Taiiku - Kimi no Bouken (TV Size) [Your Adventure!]", "mods": "HD DT", "status": "Ranked", "rank": "B", "acc": "87.97", "date": "2019/01/02"}, // https://redd.it/abtjd2
+    {"pp": "873", "oldpp": "---", "player": "2766034", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.93", "date": "2019/01/03"}, // https://redd.it/abzumt
+    {"pp": "757", "oldpp": "---", "player": "1650010", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.37", "date": "2019/01/02"},
+    {"pp": "765", "oldpp": "---", "player": "1650010", "map": "Hazuki - Legend of Millennium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.64", "date": "2019/01/03"},
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "124493",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "2558286",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
