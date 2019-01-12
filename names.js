@@ -58,5 +58,8 @@ var names = {
     "7824063": "[ Xia Relia ]",
     "8179335": "Micca",
     "895581": "-GN",
-    "9224078": "FlyingTuna"
+    "9224078": "FlyingTuna",
+    "27055": "Astar",
+    "6414828": "-Triton-",
+    "5447609": "Demonical"
 }
