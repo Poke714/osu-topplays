@@ -15,6 +15,7 @@ var names = {
     "251683": "Musty",
     "2558286": "Rafis",
     "2562987": "azr8",
+    "27055": "Astar",
     "2757689": "Toy",
     "2766034": "Umbre",
     "2768421": "jot_bab",
@@ -43,11 +44,13 @@ var names = {
     "50265": "hvick225",
     "5339515": "Mathi",
     "5371497": "Alumetri",
+    "5447609": "Demonical",
     "5518369": "Geryy",
     "5527745": "Abyssal",
     "5645667": "a_Blue",
     "5870453": "waywern2012",
     "6304246": "RyuK",
+    "6414828": "-Triton-",
     "6591496": "SadnessWillSear",
     "6778877": "Bloo",
     "718454": "ThePooN",
@@ -60,6 +63,4 @@ var names = {
     "895581": "-GN",
     "9224078": "FlyingTuna",
     "6169483": "-Hebel-"
-    "6414828": "-Triton-",
-    "5447609": "Demonical"
 }
