@@ -390,6 +390,12 @@ var plays = [
     {"pp": "715", "oldpp": "---", "player": "5371497", "map": "LiSA - Kimi ni Pierrot [Sotarks' Emotions]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.57", "date": "2019/01/05"}, // https://redd.it/acuj3t
     {"pp": "769", "oldpp": "---", "player": "3126596", "map": "Hazuki - Legend of Millennium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.73", "date": "2019/01/11"}, // https://redd.it/aetrso
     {"pp": "834", "oldpp": "---", "player": "4650315", "map": "BABYMETAL - Road of Resistance [Rebellion]", "mods": "HR", "status": "Unsubmitted", "rank": "A", "acc": "98.65", "date": "2019/01/13"}, // https://redd.it/afdmzv
+    {"pp": "706", "oldpp": "---", "player": "6169483", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "", "status": "Ranked", "rank": "S", "acc": "98.85", "date": "2019/01/16"}, // https://redd.it/aghwvs
+    {"pp": "763", "oldpp": "---", "player": "5645667", "map": "dj TAKA - quaver [Fiery's Extra]", "mods": "HD DT HR", "status": "Ranked", "rank": "A", "acc": "95.73", "date": "2019/01/14"}, // https://redd.it/afwkkn
+    {"pp": "709", "oldpp": "---", "player": "718454", "map": "Hazuki - Legend of Millennium [Xexxar's Best... Succubus?!]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.12", "date": "2019/01/15"}, // https://redd.it/ag2yvj
+    {"pp": "703", "oldpp": "---", "player": "2094566", "map": "Brian The Sun - Lonely Go! (TV Size) [Fiery's Extreme]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "93.89", "date": "2019/01/15"}, // https://redd.it/ag8oon
+    {"pp": "785", "oldpp": "---", "player": "9224078", "map": "Brian The Sun - Lonely Go! (TV Size) [Fiery's Extreme]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "96.69", "date": "2019/01/15"}, // https://redd.it/agb6cr
+    {"pp": "715", "oldpp": "---", "player": "8179335", "map": "LiSA - Kimi ni Pierrot [Sotarks' Emotions]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.57", "date": "2019/01/17"}, // https://redd.it/ah0asa
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "124493",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "2558286",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
