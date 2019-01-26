@@ -396,6 +396,23 @@ var plays = [
     {"pp": "703", "oldpp": "---", "player": "2094566", "map": "Brian The Sun - Lonely Go! (TV Size) [Fiery's Extreme]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "93.89", "date": "2019/01/15"}, // https://redd.it/ag8oon
     {"pp": "785", "oldpp": "---", "player": "9224078", "map": "Brian The Sun - Lonely Go! (TV Size) [Fiery's Extreme]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "96.69", "date": "2019/01/15"}, // https://redd.it/agb6cr
     {"pp": "715", "oldpp": "---", "player": "8179335", "map": "LiSA - Kimi ni Pierrot [Sotarks' Emotions]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.57", "date": "2019/01/17"}, // https://redd.it/ah0asa
+    {"pp": "777", "oldpp": "---", "player": "4650315", "map": "9mm Parabellum Bullet - Inferno [The Eclipse]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "98.29", "date": "2019/01/23"}, // https://redd.it/aj2y9c
+    {"pp": "738", "oldpp": "---", "player": "6304246", "map": "BABYMETAL - Road of Resistance [Crimson Rebellion]", "mods": "", "status": "Ranked", "rank": "S", "acc": "99.65", "date": "2019/01/23"}, // https://redd.it/aiuivj
+    {"pp": "701", "oldpp": "---", "player": "3213239", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "", "status": "Ranked", "rank": "S", "acc": "98.75", "date": "2019/01/19"}, // https://redd.it/ahi76w
+    {"pp": "708", "oldpp": "---", "player": "6304246", "map": "LiSA - Kimi ni Pierrot [Sotarks' Emotions]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.46", "date": "2019/01/23"}, // https://redd.it/aiulg6
+    {"pp": "748", "oldpp": "---", "player": "7342622", "map": "Simple Plan - You Suck At Love (Speed Up Ver.) [Extra]", "mods": "HD DT HR", "status": "Ranked", "rank": "A", "acc": "97.22", "date": "2019/01/20"}, // https://redd.it/ai1ot8
+    {"pp": "752", "oldpp": "---", "player": "5447609", "map": "dj TAKA - quaver [Fiery's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.90", "date": "2019/01/19"}, // https://redd.it/ahmpcb
+    {"pp": "701", "oldpp": "---", "player": "7342622", "map": "Simple Plan - You Suck At Love (Speed Up Ver.) [Extra]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "98.97", "date": "2019/01/19"}, // https://redd.it/ahrafv
+    {"pp": "737", "oldpp": "---", "player": "1473890", "map": "dj TAKA - quaver [Fiery's Extra]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.31", "date": "2019/01/22"}, // https://redd.it/aipn88
+    {"pp": "746", "oldpp": "---", "player": "4196808", "map": "LiSA - Kimi ni Pierrot [Sotarks' Emotions]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.23", "date": "2019/01/25"}, // https://redd.it/aju7mv
+    {"pp": "822", "oldpp": "---", "player": "3533958", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "99.17", "date": "2019/01/24"}, // https://redd.it/ajhjk4
+    {"pp": "799", "oldpp": "---", "player": "3171691", "map": "Ryu-5150 - Louder than Steel [ok this is epic]", "mods": "", "status": "Unranked", "rank": "A", "acc": "98.06", "date": "2019/01/21"}, // https://redd.it/ai43jr
+    {"pp": "791", "oldpp": "---", "player": "4787150", "map": "Brian The Sun - Lonely Go! (TV Size) [Fiery's Extreme]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "96.88", "date": "2019/01/04"}, // https://redd.it/acdust
+    {"pp": "804", "oldpp": "---", "player": "4650315", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.67", "date": "2019/01/26"}, // https://redd.it/ak2nn7
+    {"pp": "704", "oldpp": "---", "player": "9224078", "map": "ClariS - SHIORI (TV Size) [Everlasting]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "94.73", "date": "2019/01/26"}, // https://redd.it/ak0vvl
+    {"pp": "705", "oldpp": "---", "player": "4650315", "map": "BLUE ENCOUNT - HOPE [SURVIVOR]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.25", "date": "2019/01/22"}, // https://redd.it/aiobuw
+
+
     // Note: Overwritten means that there is a better play with same player, map and mods 
     {"pp": "664", "oldpp": "704", "player": "124493",			"map": "yuikonnu - Yume Chizu [Lost]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "97.71", "date": "2017/04/23"}, 
     {"pp": "676", "oldpp": "715", "player": "2558286",			"map": "Fujijo Seitokai Shikkou-bu - Best FriendS [Insane]", "mods": "HD DT HR", "status": "Ranked", "rank": "S", "acc": "98.98", "date": "2017/05/12"}, 
