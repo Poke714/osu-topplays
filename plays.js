@@ -411,6 +411,8 @@ var plays = [
     {"pp": "804", "oldpp": "---", "player": "4650315", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.67", "date": "2019/01/26"}, // https://redd.it/ak2nn7
     {"pp": "704", "oldpp": "---", "player": "9224078", "map": "ClariS - SHIORI (TV Size) [Everlasting]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "94.73", "date": "2019/01/26"}, // https://redd.it/ak0vvl
     {"pp": "705", "oldpp": "---", "player": "4650315", "map": "BLUE ENCOUNT - HOPE [SURVIVOR]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.25", "date": "2019/01/22"}, // https://redd.it/aiobuw
+    {"pp": "897", "oldpp": "---", "player": "3533958", "map": "dj TAKA - quaver [Fiery's Extra]", "mods": "DT HR", "status": "Ranked", "rank": "A", "date": "2019/01/27"}, // https://redd.it/ak8rlq
+    {"pp": "711", "oldpp": "---", "player": "6668666", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "", "status": "Ranked", "rank": "S", "date": "2019/01/27"}, // https://redd.it/ak74o6
 
 
     // Note: Overwritten means that there is a better play with same player, map and mods 
