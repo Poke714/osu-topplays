@@ -411,8 +411,17 @@ var plays = [
     {"pp": "804", "oldpp": "---", "player": "4650315", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.67", "date": "2019/01/26"}, // https://redd.it/ak2nn7
     {"pp": "704", "oldpp": "---", "player": "9224078", "map": "ClariS - SHIORI (TV Size) [Everlasting]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "94.73", "date": "2019/01/26"}, // https://redd.it/ak0vvl
     {"pp": "705", "oldpp": "---", "player": "4650315", "map": "BLUE ENCOUNT - HOPE [SURVIVOR]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.25", "date": "2019/01/22"}, // https://redd.it/aiobuw
-    {"pp": "897", "oldpp": "---", "player": "3533958", "map": "dj TAKA - quaver [Fiery's Extra]", "mods": "DT HR", "status": "Ranked", "rank": "A", "date": "2019/01/27"}, // https://redd.it/ak8rlq
-    {"pp": "711", "oldpp": "---", "player": "6668666", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "", "status": "Ranked", "rank": "S", "date": "2019/01/27"}, // https://redd.it/ak74o6
+    {"pp": "897", "oldpp": "---", "player": "3533958", "map": "dj TAKA - quaver [Fiery's Extra]", "mods": "DT HR", "status": "Ranked", "rank": "A", "acc": "97.11", "date": "2019/01/27"}, // https://redd.it/ak8rlq
+    {"pp": "711", "oldpp": "---", "player": "6668666", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "", "status": "Ranked", "rank": "S", "acc": "99.01", "date": "2019/01/27"}, // https://redd.it/ak74o6
+    {"pp": "861", "oldpp": "---", "player": "4133758", "map": "VINXIS - Sidetracked Day [THREE DIMENSIONS]", "mods": "HD HR", "status": "Ranked", "rank": "S", "acc": "99.74", "date": "2019/01/27"}, // https://redd.it/akc841
+    {"pp": "712", "oldpp": "---", "player": "4650315", "map": "DECO*27 - HIBANA feat. Hatsune Miku [Lock On]", "mods": "HR", "status": "Ranked", "rank": "S", "acc": "99.69", "date": "2019/01/29"}, // https://redd.it/akz0a9
+    {"pp": "725", "oldpp": "---", "player": "4196808", "map": "Aitsuki Nakuru - Monochrome Butterfly [Uniform]", "mods": "HD DT", "status": "Ranked", "rank": "A", "acc": "98.87", "date": "2019/02/01"}, // https://redd.it/am0ycc
+    {"pp": "702", "oldpp": "---", "player": "1568047", "map": "GALNERYUS - RAISE MY SWORD [A THOUSAND FLAMES]", "mods": "HR", "status": "Ranked", "rank": "A", "acc": "98.72", "date": "2019/01/27"}, // https://redd.it/akfkod
+    {"pp": "704", "oldpp": "---", "player": "3533958", "map": "YUI - Rolling star (TV Size) [Seni's Expert]", "mods": "DT HR", "status": "Ranked", "rank": "S", "acc": "95.99", "date": "2019/02/01"}, // https://redd.it/alxxcp
+    {"pp": "746", "oldpp": "---", "player": "4196808", "map": "LiSA - Kimi ni Pierrot [Sotarks' Emotions]", "mods": "HD DT", "status": "Ranked", "rank": "S", "acc": "99.23", "date": "2019/01/25"}, // https://redd.it/aju7mv
+    {"pp": "712", "oldpp": "---", "player": "2094566", "map": "dj TAKA - quaver [Fiery's Extra]", "mods": "HD DT HR", "status": "Ranked", "rank": "B", "acc": "92.01", "date": "2019/01/31"}, // https://redd.it/alpbwm
+    {"pp": "888", "oldpp": "---", "player": "6304246", "map": "GYZE - HONESTY [TillaN's TRUTH]", "mods": "HD HR", "status": "Loved", "rank": "S", "acc": "98.86", "date": "2019/01/29"}, // https://redd.it/akyjhj
+
 
 
     // Note: Overwritten means that there is a better play with same player, map and mods 
